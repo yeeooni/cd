@@ -34,3 +34,7 @@
 
 + SQL
   + Oracle 설치
+
+## 3. 참고 자료 
+
+[git 한글 파일명 사용문제 고치기 core.quotepath] (https://edykim.com/ko/post/git-fix-problem-using-filename-core.quotepath/)
