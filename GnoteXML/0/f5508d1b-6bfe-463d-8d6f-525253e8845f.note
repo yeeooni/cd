@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<note version="0.3" xmlns:link="http://beatniksoftware.com/tomboy/link" xmlns:size="http://beatniksoftware.com/tomboy/size" xmlns="http://beatniksoftware.com/tomboy"><title>Oracle</title><text xml:space="preserve"><note-content version="0.1" xmlns:link="http://beatniksoftware.com/tomboy/link" xmlns:size="http://beatniksoftware.com/tomboy/size">Oracle
+
+오라클 설치 -&gt; DATABASE 폴더 -&gt; BAT File -&gt; 접속 확인 -&gt; jdbc6.jar 경로 확인
+
+웹 프로젝트 적용 -&gt; WEB-INF -&gt; lib 
+<list><list-item dir="ltr">오라클 설치 시 아래 경로에 jar 파일이 존재한다.
+<list><list-item dir="ltr">oracle -&gt; Product -&gt; 11.2.0 -&gt;.....</list-item></list></list-item></list>
+
+톰캣서버 폴더안에 jdbc6.jar 파일을 가져다 놓는다.
+<list><list-item dir="ltr">usr/share/tomcat.../lib</list-item></list>
+ 		 </note-content>
+</text><last-change-date>2019-06-23T10:50:21.450882Z</last-change-date><last-metadata-change-date>2019-06-23T10:50:21.451030Z</last-metadata-change-date><create-date>2019-06-23T10:45:23.858255Z</create-date><cursor-position>229</cursor-position><selection-bound-position>-1</selection-bound-position><width>683</width><height>604</height><tags><tag>system:notebook:SQL</tag></tags></note>
+
