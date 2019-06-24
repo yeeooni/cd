@@ -35,7 +35,7 @@
   + IPS, IDS 
   + 무선 인터넷(WIFI)
 
-###### 빅데이터
+###### [빅데이터](https://github.com/yeeooni/explicit-knowledge/tree/master/Big%20Data)
   + Big Data KeyWord
   + 정의
   + 기술통계학
