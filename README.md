@@ -9,7 +9,9 @@
 + 정보보안
   + 정보보안 KeyWord
   + 정보보호의 필요성
-  + 침입차단시스템
+  + 침입차단시스템(firewall)
+  + IPS, IDS
+  + 무선 인터넷(WIFI)
 
 + Java
 
