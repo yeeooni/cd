@@ -10,7 +10,9 @@
   + 정보보안 KeyWord
   + 정보보호의 필요성
   + 침입차단시스템(firewall)
-  + IPS *[IPS] : Intrusion Detection System , IDS *[IDS] : Intrusion Protection System
+  + IPS, IDS 
+  *[IPS] : Intrusion Detection System 
+  *[IDS] : Intrusion Protection System
   + 무선 인터넷(WIFI)
 
 + Java
