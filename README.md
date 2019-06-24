@@ -6,12 +6,8 @@
 
 ## 2. 분류
 
-+ 프로그래밍 언어
 [1. 프로그래밍 언어](#프로그래밍-언어)
-  + Java
-  + Spring
-  + C
-  + php
+ 
 
 + 정보보안
   + 정보보안 KeyWord
@@ -37,7 +33,14 @@
 + SQL
   + Oracle 설치
 
-## 3. 참고 자료 
+## 3. 소분류 
++ 프로그래밍 언어
+  + Java
+  + Spring
+  + C
+  + php
+
+## 4. 참고 자료 
 
 1. [git 한글 파일명 사용문제 고치기 core.quotepath](https://edykim.com/ko/post/git-fix-problem-using-filename-core.quotepath/)  
 2. [Ubunto Git 사용법](https://dejavuwing.tistory.com/entry/Ubuntu-GitHub-%EC%82%AC%EC%9A%A9%EB%B2%95)
