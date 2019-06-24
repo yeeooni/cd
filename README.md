@@ -6,16 +6,19 @@
 
 ## 2. 분류
 
++ 프로그래밍 언어
+[1. 프로그래밍 언어](#프로그래밍-언어)
+  + Java
+  + Spring
+  + C
+  + php
+
 + 정보보안
   + 정보보안 KeyWord
   + 정보보호의 필요성
   + 침입차단시스템(firewall)
   + IPS, IDS 
   + 무선 인터넷(WIFI)
-
-+ Java
-
-+ Spring
 
 + Big Data
   + Big Data KeyWord
@@ -30,9 +33,6 @@
   + Network, internet
   + Network Topology
 
-+ c
-
-+ php
 
 + SQL
   + Oracle 설치
