@@ -44,7 +44,7 @@ Syn -> <- Syn.Ack
 Ack -> <- Ack 
 Fin.Ack -> <-Fin.Ack
 열려있는 포트로 FIN패킷을 보낸 경우 -> 무응답
-여려있는 포트로 NULL패킷을 보낸 경우 -> 무응답
+열려있는 포트로 NULL패킷을 보낸 경우 -> 무응답
 
 	<대칭키>
 	암호화 (ENCRYPTION)      복호화 (훔쳐보기, SNIPPING, SNOOPING, SPOOFING)
