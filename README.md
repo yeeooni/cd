@@ -16,19 +16,19 @@
 
 ## 3. 소분류
  
-###### 프로그래밍 언어
+###### [프로그래밍 언어]
   + Java
   + Spring
   + C
   + php
 
-###### 알고리즘
+###### [알고리즘](https://github.com/yeeooni/explicit-knowledge/tree/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
   + 쉽게 배우는 알고리즘.pdf
 
-###### SQL
+###### [SQL](https://github.com/yeeooni/explicit-knowledge/tree/master/SQL)
   + Oracle 설치
 
-###### 정보보안
+###### [정보보안](https://github.com/yeeooni/explicit-knowledge/tree/master/%EC%A0%95%EB%B3%B4%EB%B3%B4%EC%95%88)
   + 정보보안 KeyWord
   + 정보보호의 필요성
   + 침입차단시스템(firewall)
@@ -40,12 +40,12 @@
   + 정의
   + 기술통계학
 
-###### 정보통신개론
+###### [정보통신개론](https://github.com/yeeooni/explicit-knowledge/tree/master/%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%EA%B0%9C%EB%A1%A0)
   + 정보통신개론 KeyWord
   + Network, internet
   + Network Topology
 
-###### MarkDown
+###### [MarkDown](https://github.com/yeeooni/explicit-knowledge/tree/master/MarkDown)
   + 마크다운 정의 
 
 ## 4. 참고자료(외부 링크)
