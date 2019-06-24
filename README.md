@@ -13,8 +13,9 @@
   + IPS, IDS 
   + 무선 인터넷(WIFI)
 
- *[IPS]: Intrusion Detection System 
- *[IDS]: Intrusion Protection System
+IPS, IDS
+*[IPS]: Intrusion Detection System 
+*[IDS]: Intrusion Protection System
 
 + Java
 
