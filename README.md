@@ -1,4 +1,5 @@
-# 당신이 IT개발자라면 _꼭꼭꼭_:exclamation: 필요한 지식들
+# 당신이 IT개발자라면 _꼭꼭꼭_:exclamation: <br/> 필요한 지식들
+
 ## 1. 소개
 > 이 공간은 못생겼지만 개성이 넘치고 꾸미길 좋아하는 <br/>
 김의연이 이따금 공부를 하다가 생각이 나지 않을 때 언제, 어디서든 찾아볼 수 있도록 <br/> 
@@ -29,19 +30,19 @@
   + Oracle 설치
 
 ###### [정보보안](https://github.com/yeeooni/explicit-knowledge/tree/master/%EC%A0%95%EB%B3%B4%EB%B3%B4%EC%95%88)
-  + 정보보안 KeyWord
+  + 정보보안에서 가장 중요한 단어들?
   + 정보보호의 필요성
   + 침입차단시스템(firewall)
   + IPS, IDS 
   + 무선 인터넷(WIFI)
 
 ###### [빅데이터](https://github.com/yeeooni/explicit-knowledge/tree/master/Big%20Data)
-  + Big Data KeyWord
+  + Big Data 용어 정리 
   + 정의
   + 기술통계학
 
 ###### [정보통신개론](https://github.com/yeeooni/explicit-knowledge/tree/master/%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%EA%B0%9C%EB%A1%A0)
-  + 정보통신개론 KeyWord
+  + 정보통신개론
   + Network, internet
   + Network Topology
 
