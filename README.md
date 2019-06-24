@@ -46,14 +46,7 @@
   + Network Topology
 
 ###### [MarkDown](https://github.com/yeeooni/explicit-knowledge/tree/master/MarkDown)
-<div>
   + 마크다운 정의 
-</div>
-
-div{
-	color : orange;
-	font-weight : bold;
-}
 
 ## 4. 참고자료(외부 링크)
 
