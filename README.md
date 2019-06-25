@@ -19,11 +19,11 @@
  
 |[프로그래밍 언어](개발중..)|[알고리즘](https://github.com/yeeooni/explicit-knowledge/tree/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)|[SQL](https://github.com/yeeooni/explicit-knowledge/tree/master/SQL)|[정보보안](https://github.com/yeeooni/explicit-knowledge/tree/master/%EC%A0%95%EB%B3%B4%EB%B3%B4%EC%95%88)|
 |:---:|:---:|:---:|:---:|
-|Java| |쉽게 배우는 알고리즘.pdf| |Oracle 설치| |정보보안에서 가장 중요한 단어들?|
-|Spring|					|정보보호의 필요성|
-|C|						|침입차단시스템(firewall)|
-|php|						|IPS, IDS|
-						|무선 인터넷(WIFI)|
+|Java|쉽게 배우는 알고리즘.pdf|Oracle 설치|정보보안에서 가장 중요한 단어들?|
+|Spring|---|---|정보보호의 필요성|
+|C|---|---|침입차단시스템(firewall)|
+|php|---|---|IPS, IDS|
+|---|---|---|무선 인터넷(WIFI)|
 
 ###### [빅데이터](https://github.com/yeeooni/explicit-knowledge/tree/master/Big%20Data)
   + Big Data 용어 정리 
