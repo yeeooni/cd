@@ -5,20 +5,7 @@
 김의연이 이따금 공부를 하다가 생각이 나지 않을 때 언제, 어디서든 찾아볼 수 있도록 <br/> 
 단짝친구와 같은 오래되고 사랑스러운:two_hearts: __LenovoThinkpadX230__ 으로 만들어진 *지식저장소*입니다:smile:
 
-## 2. 목차
-
->1. 프로그래밍 언어  
->2. 알고리즘  
->3. SQL  
->4. 정보보안  
->5. 빅데이터  
->6. 정보통신개론  
->7. MarkDown  
->8. git  
->9. svn  
-
-## 3. 소분류
- 
+## 2. 목차 
 |[프로그래밍 언어](개발중..)|[알고리즘](https://github.com/yeeooni/explicit-knowledge/tree/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)|[SQL](https://github.com/yeeooni/explicit-knowledge/tree/master/SQL)|[정보보안](https://github.com/yeeooni/explicit-knowledge/tree/master/%EC%A0%95%EB%B3%B4%EB%B3%B4%EC%95%88)|[빅데이터](https://github.com/yeeooni/explicit-knowledge/tree/master/Big%20Data)|[정보통신개론](https://github.com/yeeooni/explicit-knowledge/tree/master/%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%EA%B0%9C%EB%A1%A0)|[MarkDown](https://github.com/yeeooni/explicit-knowledge/tree/master/MarkDown)|[git](개발중..)|[svn](개발중..)
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |Java|쉽게 배우는 알고리즘.pdf|Oracle 설치|정보보안에서 가장 중요한 단어들?|Big Data 용어 정리|정보통신개론|마크다운 정의|---|---|
