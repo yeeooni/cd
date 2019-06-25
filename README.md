@@ -17,13 +17,13 @@
 
 ## 3. 소분류
  
-|프로그래밍 언어|알고리즘|
+|프로그래밍 언어|[알고리즘](https://github.com/yeeooni/explicit-knowledge/tree/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)|
 |---|---|
 |:Java:|
 |:Spring:|
 |:C:|
 |:php:|
-[알고리즘](https://github.com/yeeooni/explicit-knowledge/tree/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
+
 
   + 쉽게 배우는 알고리즘.pdf
 
