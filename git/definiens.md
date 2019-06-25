@@ -81,6 +81,9 @@ git branch --set-upstream origin <브랜치명>
 각자가 local 및 저장소 기준이므로, local의 branch를 remote branch와 연동하는  
 작업을 해주어야 한다. 
 
++ 병합(merge)
+
+
 
 
 
