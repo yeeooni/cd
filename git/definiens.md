@@ -97,7 +97,6 @@ git merge <생성했던 브랜치명>
 git pull-request
 ```
 
-
 + 브랜치 삭제
 > 작업이 끝나고, 기준 branch로 pull-request가 종료되어서 merge까지 완료되었다면,  
  branch를 삭제 해주는게 좋다. 우선 master branch로 체크아웃을 해준다.
