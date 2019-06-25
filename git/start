@@ -1,0 +1,6 @@
+1. 시작하기  
+>git이란 소스코드를 효과적으로 관리하기 위한 '분산형 버전 관리 시스템'
+원래는 Linux 소스코드를 관리할 목적으로 개발되었다.
+
+![](home/kimeuiyeon/explicit-knowledge/git/image/capture_intro1_1_2.png)
+>여러 명이 공유한 파일을 동시에 편집하는 과정에서 충돌이 일어난다.
