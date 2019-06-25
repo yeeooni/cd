@@ -79,7 +79,7 @@ To push the current branch and set the remote as upstream, use
 ```
 
 ```
-git branch --set-upstream origin <브랜치명>
+git push --set-upstream origin <브랜치명>
 ```
 
 > 이 문제는 위와 같이 명령어를 입력하여 해결하였다. 브랜치를 생성한다음 _꼭꼭꼭_  
