@@ -28,7 +28,6 @@
 |:---:|:---:|:---:|
 |[Java](개발중..)|Oracle|[GIT](https://github.com/yeeooni/explicit-knowledge/tree/master/git)|
 |C|---|[SVN](개발중..)|
-|php|---|---|---|
 |[MarkDown](https://github.com/yeeooni/explicit-knowledge/tree/master/MarkDown)|
 
 ### - 프레임워크
