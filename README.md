@@ -9,7 +9,8 @@
 
 ###### 1. 교육자료 
 ###### 2. [개발언어&형상관리시스템](#개발언어&형상관리시스템)
-###### 3. 프레임워크 
+###### 3. 프레임워크
+ 
 ---
 ### - 교육 자료
 
@@ -36,6 +37,7 @@
 |:---:|
 |MyBatis [Spring](개발중..)||
 
+---
 ## 3. 참고자료(외부 링크)
 1. [git 한글 파일명 사용문제 고치기 core.quotepath](https://edykim.com/ko/post/git-fix-problem-using-filename-core.quotepath/)  
 2. [Ubunto Git 사용법](https://dejavuwing.tistory.com/entry/Ubuntu-GitHub-%EC%82%AC%EC%9A%A9%EB%B2%95)
