@@ -62,6 +62,10 @@ git checkout -b <브랜치명>
 ```
 
 ```
+//하지만 내가 생성한 이 브랜치는  
+로컬(local)과 저장소의 remotem branch가 생성되어있지 않다.
+그렇기에 __git push__ 명령어를 사용하지 못했다.
+ 
 kimeuiyeon@nerdy:~/explicit-knowledge$ git push
 fatal: The current branch Develop_git has no upstream branch.
 To push the current branch and set the remote as upstream, use
@@ -69,16 +73,15 @@ To push the current branch and set the remote as upstream, use
     git push --set-upstream origin Develop_git
 
 ```
-> 하지만 내가 생성한 이 브랜치는  
-로컬(local)과 저장소의 remotem branch가 생성되어있지 않다.
-그렇기에 __git push__ 명령어를 사용하지 못했다. 
-이 문제는 아래 명령어를 입력하여 해결하였다. 브랜치를 생성한다음 _꼭꼭꼭_  
-각자가 local 및 저장소 기준이므로, local의 branch를 remote branch와 연동하는  
-작업을 해주어야 한다. 
 
 ```
 git branch --set-upstream origin <브랜치명>
 ```
+
+> 이 문제는 아래 명령어를 입력하여 해결하였다. 브랜치를 생성한다음 _꼭꼭꼭_  
+각자가 local 및 저장소 기준이므로, local의 branch를 remote branch와 연동하는  
+작업을 해주어야 한다. 
+
 
 
 
