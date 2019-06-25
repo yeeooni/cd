@@ -25,12 +25,12 @@
 이럴 때, 동시에 다양한 작업을 할 수 있게 만들어 주는 기능이 *'브랜치'*이다.  
 브랜치란 독립적으로 어떤 작업을 진행하기 위한 개념이다.  
 
-![Branch](../capture_stepup1_1_1.png)
+![Branch](../img/capture_stepup1_1_1.png)
 
 >> 이렇게 만들어진 브랜치는 다른 브랜치와 병합(Merge)로, 작업한 내용을 다시 새로운  
 하나의 브랜치로 모을 수 있다.
 
-![Branch 전략](../capture_stepup1_1_2.png)
+![Branch 전략](../img/capture_stepup1_1_2.png)
 
 + 마스터 브랜치 (Master Branch)
 > 저장소를 처음 생성하게되면, master라는 이름의 브랜치를 만들어 준다.  
