@@ -24,7 +24,7 @@
 ### 2. 개발언어&형상관리시스템
 
 |언어|[SQL](https://github.com/yeeooni/explicit-knowledge/tree/master/SQL)|CMS(형상관리시스템)|
-|:---:|:---:|:---:|:---:|
+|:---:|:---:|:---:|
 |[Java](개발중..)|Oracle|[git](https://github.com/yeeooni/explicit-knowledge/tree/master/git)|[svn](개발중..)|
 |C|---|입문|---|
 |php|---|---|---|
@@ -33,7 +33,7 @@
 ### 3. 프레임워크
 
 |FrameWork|
-|:---:|:---:|
+|:---:|
 |MyBatis|[Spring](개발중..)|
 
 ## 3. 참고자료(외부 링크)
