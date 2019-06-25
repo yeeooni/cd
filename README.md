@@ -23,17 +23,18 @@
 
 ### 2. 개발언어&형상관리시스템
 
-|[언어](개발중..)|[SQL](https://github.com/yeeooni/explicit-knowledge/tree/master/SQL)|[git](개발중..)|[svn](개발중..)|
+|언어|[SQL](https://github.com/yeeooni/explicit-knowledge/tree/master/SQL)|CMS(형상관리시스템)|
 |:---:|:---:|:---:|:---:|
-|Java|오라클 설치|시작|---|
-|C|---|---|---|
+|[Java](개발중..)|Oracle|[git](https://github.com/yeeooni/explicit-knowledge/tree/master/git)|[svn](개발중..)|
+|C|---|입문|---|
 |php|---|---|---|
 |[MarkDown](https://github.com/yeeooni/explicit-knowledge/tree/master/MarkDown)|
+
 ### 3. 프레임워크
 
-|[Spring](개발중..)|
-|:---:|
-|---|
+|FrameWork|
+|:---:|:---:|
+|MyBatis|[Spring](개발중..)|
 
 ## 3. 참고자료(외부 링크)
 1. [git 한글 파일명 사용문제 고치기 core.quotepath](https://edykim.com/ko/post/git-fix-problem-using-filename-core.quotepath/)  
