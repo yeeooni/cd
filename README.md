@@ -7,10 +7,10 @@
 
 ## 2. 목차
 
-### 1. 교육자료 
-### 2. 개발언어 & 형상관리시스템  
+###### 1. 교육자료 
+###### 2. 개발언어 & 형상관리시스템  
 
-## 1. 교육자료
+##### 1. 교육자료
 |[알고리즘](https://github.com/yeeooni/explicit-knowledge/tree/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)|[정보보안](https://github.com/yeeooni/explicit-knowledge/tree/master/%EC%A0%95%EB%B3%B4%EB%B3%B4%EC%95%88)|[빅데이터](https://github.com/yeeooni/explicit-knowledge/tree/master/Big%20Data)|[정보통신개론](https://github.com/yeeooni/explicit-knowledge/tree/master/%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%EA%B0%9C%EB%A1%A0)|[MarkDown](https://github.com/yeeooni/explicit-knowledge/tree/master/MarkDown)|
 |:---:|:---:|:---:|:---:|:---:|
 |쉽게 배우는 알고리즘.pdf|정보보안에서 가장 중요하다고 생각하는 단어들?|Big Data<br/>용어 정리|정보통신개론|마크다운 정의|
@@ -19,7 +19,7 @@
 |---|IPS, IDS|---|---|---|
 |---|무선 인터넷(WIFI)|---|---|---|
 
-## 1. 개발언어 & 형상관리시스템
+##### 2. 개발언어 & 형상관리시스템
 |[개발언어](개발중..)|[SQL](https://github.com/yeeooni/explicit-knowledge/tree/master/SQL)|[git](개발중..)|[svn](개발중..)|
 |:---:|:---:|:---:|:---|
 |Java|오라클 설치|---|---|
