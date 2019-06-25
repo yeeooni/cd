@@ -82,6 +82,13 @@ git branch --set-upstream origin <브랜치명>
 작업을 해주어야 한다. 
 
 + 병합(merge)
+> 합친다라는 개념이라는건 다들 알고 있겠지. 우선 개발이 끝나면 마스터브랜치로  
+체크아웃을 하고 명령어를 입력한다.
+```
+git merge <브랜치명>
+//그 전에 pull-request를 이용하여 master에서 conflict등의 오류가 없는지 확인하는게 좋다.
+git pull-request
+```
 
 
 
