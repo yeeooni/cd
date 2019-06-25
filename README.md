@@ -13,10 +13,12 @@
 |C|---|---|침입차단시스템(firewall)|기술통계학|Network Topology|---|---|---|
 |php|---|---|IPS, IDS|---|---|---|---|---|
 |---|---|---|무선 인터넷(WIFI)|---|---|---|---|---|
+<br/>
+|linux|
+|:---:|
+|---|
 
-
-## 4. 참고자료(외부 링크)
-
+## 3. 참고자료(외부 링크)
 1. [git 한글 파일명 사용문제 고치기 core.quotepath](https://edykim.com/ko/post/git-fix-problem-using-filename-core.quotepath/)  
 2. [Ubunto Git 사용법](https://dejavuwing.tistory.com/entry/Ubuntu-GitHub-%EC%82%AC%EC%9A%A9%EB%B2%95)
 3. [MarkDown 이모지 사용법](https://www.webfx.com/tools/emoji-cheat-sheet/)
