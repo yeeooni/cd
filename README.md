@@ -34,7 +34,7 @@
 
 |FrameWork|
 |:---:|
-|MyBatis[Spring](개발중..)||
+|MyBatis [Spring](개발중..)||
 
 ## 3. 참고자료(외부 링크)
 1. [git 한글 파일명 사용문제 고치기 core.quotepath](https://edykim.com/ko/post/git-fix-problem-using-filename-core.quotepath/)  
