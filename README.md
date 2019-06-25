@@ -20,10 +20,10 @@
 |[프로그래밍 언어](개발중..)|[알고리즘](https://github.com/yeeooni/explicit-knowledge/tree/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)|[SQL](https://github.com/yeeooni/explicit-knowledge/tree/master/SQL)|[정보보안](https://github.com/yeeooni/explicit-knowledge/tree/master/%EC%A0%95%EB%B3%B4%EB%B3%B4%EC%95%88)|[빅데이터](https://github.com/yeeooni/explicit-knowledge/tree/master/Big%20Data)|[정보통신개론](https://github.com/yeeooni/explicit-knowledge/tree/master/%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%EA%B0%9C%EB%A1%A0)|[MarkDown](https://github.com/yeeooni/explicit-knowledge/tree/master/MarkDown)|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |Java|쉽게 배우는 알고리즘.pdf|Oracle 설치|정보보안에서 가장 중요한 단어들?|Big Data 용어 정리|정보통신개론|마크다운 정의|
-|Spring|---|---|정보보호의 필요성|정의|Network, internet|
-|C|---|---|침입차단시스템(firewall)|기술통계학|Network Topology|
-|php|---|---|IPS, IDS|
-|---|---|---|무선 인터넷(WIFI)|
+|Spring|---|---|정보보호의 필요성|정의|Network, internet|---|
+|C|---|---|침입차단시스템(firewall)|기술통계학|Network Topology|---|
+|php|---|---|IPS, IDS|---|---|---|
+|---|---|---|무선 인터넷(WIFI)|---|---|---|
 
 
 ## 4. 참고자료(외부 링크)
