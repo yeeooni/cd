@@ -98,6 +98,21 @@ git pull-request
 ```
 
 
++ 브랜치 삭제
+> 작업이 끝나고, 기준 branch로 pull-request가 종료되어서 merge까지 완료되었다면,  
+ branch를 삭제 해주는게 좋다. 우선 master branch로 체크아웃을 해준다.
+```
+git checkout master
+git branch -d <브랜치명>
+
+// 그러나, 작업된 사항이나 commit한 이력이 남아있는 경우, 브랜치가 삭제되지 않는 경우가 있다.
+// 이러한 경우에는 강제로 브랜치를 삭제할 수 있다.
+git branch -D <브랜치명>
+
+// 그 후, 원격 브랜치도 삭제해준다.
+git push origin :<브랜치명>
+```
+
 
 
 
