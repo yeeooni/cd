@@ -112,6 +112,104 @@ git branch -D <브랜치명>
 git push origin :<브랜치명>
 ```
 
++ merge --squash
+> 새로운 브랜치에서 모든 커밋을 하나의 커밋으로 병합하여 'master' 브랜치로 가져와야할 때 사용하는 명령어
+```
+// 현재 마크다운 브랜치로 체크아웃하고 git log를 확인한 상태 
+-- Develop_md checkout
+
+commit 3b7806f7539e21640005147acbf9f5455f87c0a0 (HEAD -> Develop_md, origin/Develop_md)
+Author: yeeooni <12.12kimiyeon@gmail.com>
+Date:   Thu Jun 27 10:57:52 2019 +0900
+
+    정의 추가
+
+commit bb77dcd02c031fde47a16ec72000ed2983a7fce9
+Author: yeeooni <12.12kimiyeon@gmail.com>
+Date:   Thu Jun 27 10:45:46 2019 +0900
+
+    수정
+
+commit a3a57a5ed9897d3fb1ad79e036d19c850c85c90a
+Author: yeeooni <12.12kimiyeon@gmail.com>
+Date:   Thu Jun 27 10:43:41 2019 +0900
+
+    수정
+
+commit f468f81d03fc4af040d540adf4bf91ee02d72fd9
+Author: yeeooni <12.12kimiyeon@gmail.com>
+Date:   Thu Jun 27 10:42:07 2019 +0900
+
+    마크다운 정의 (이미지 추가)
+
+commit 8921b3d841ff650c4acb588bf95eecc72c832607
+:
+
+// 마스터브랜치로 체크아웃하고 git log를 확인한 상태
+
+commit 3a44151e1173e34340e3e249bc88c6b907b4e1b9 (HEAD -> master, origin/master, origin/HEAD)
+Merge: ddbdb29 a20b95b
+Author: yeeooni <12.12kimiyeon@gmail.com>
+Date:   Wed Jun 26 00:38:26 2019 +0900
+
+    Merge branch 'Develop_git'
+
+commit a20b95b201ecc6d2d94d94792f95b985eb02ea91 (origin/Develop_git, Develop_git)
+Author: yeeooni <12.12kimiyeon@gmail.com>
+Date:   Wed Jun 26 00:37:59 2019 +0900
+
+    수정
+
+commit 367915674aeb6bfcea3ad871ee37b86c30223fa7
+Author: yeeooni <12.12kimiyeon@gmail.com>
+Date:   Wed Jun 26 00:36:18 2019 +0900
+
+    문법 수정
+
+commit ddbdb29186a1a8bc0ba26c53139c6587192761e7
+Author: yeeooni <12.12kimiyeon@gmail.com>
+Date:   Wed Jun 26 00:33:06 2019 +0900
+
+    수정
+:
+
+// merge --squash 적용 후 마스터 브랜치 git log 상태
+
+kimeuiyeon@nerdy:~/explicit-knowledge$ git log
+commit 4f3e1ac7efc41d653186ee414efa5bc097c30a81 (HEAD -> master, origin/master, origin/HEAD)
+Author: yeeooni <12.12kimiyeon@gmail.com>
+Date:   Thu Jun 27 11:02:46 2019 +0900
+
+    Develop_md merge
+
+commit 3a44151e1173e34340e3e249bc88c6b907b4e1b9
+Merge: ddbdb29 a20b95b
+Author: yeeooni <12.12kimiyeon@gmail.com>
+Date:   Wed Jun 26 00:38:26 2019 +0900
+
+    Merge branch 'Develop_git'
+
+commit a20b95b201ecc6d2d94d94792f95b985eb02ea91 (origin/Develop_git, Develop_git)
+Author: yeeooni <12.12kimiyeon@gmail.com>
+Date:   Wed Jun 26 00:37:59 2019 +0900
+
+    수정
+
+commit 367915674aeb6bfcea3ad871ee37b86c30223fa7
+Author: yeeooni <12.12kimiyeon@gmail.com>
+Date:   Wed Jun 26 00:36:18 2019 +0900
+
+    문법 수정
+kimeuiyeon@nerdy:~/explicit-knowledge$ git branch
+  Develop_git
+  Develop_ic
+  Develop_md
+  Develop_sql
+* master
+  readme
+kimeuiyeon@nerdy:~/explicit-knowledge$ 
+```
+
 
 
 
