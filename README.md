@@ -37,8 +37,9 @@
 |MyBatis [Spring](개발중..)||
 
 ---
-## 3. 참고자료(외부 링크)
+## 3. 참고자료 (외부 링크)
 1. [git 한글 파일명 사용문제 고치기 core.quotepath](https://edykim.com/ko/post/git-fix-problem-using-filename-core.quotepath/)  
 2. [Ubunto Git 사용법](https://dejavuwing.tistory.com/entry/Ubuntu-GitHub-%EC%82%AC%EC%9A%A9%EB%B2%95)
 3. [MarkDown 이모지 사용법](https://www.webfx.com/tools/emoji-cheat-sheet/)
 4. [MarkDown 에디터](https://pandao.github.io/editor.md/en.html)
+5. [누구나 쉽게 이해할 수 있는 git입문](https://backlog.com/git-tutorial/kr/)
