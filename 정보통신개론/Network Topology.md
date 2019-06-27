@@ -27,7 +27,7 @@
 실무에서 많이 사용하는 구조.  
 성형-버스 토폴로지와 성형-링 토폴로지를 많이 사용.
 
-<img src="../img/NetworkTopology-Mesh.svg" width="35%" height="35%"/>
+<img src="../img/NetworkTopology-Mesh.svg" width="30%" height="30%"/>
 
 * Mesh Topology : 각각의 노드가 네트워크에 대해 데이터를 릴레이하는 네트워크 토폴로지.
 > 모든 메시 노드들은 네트워크 내의 데이터 분산에 협업한다.  
