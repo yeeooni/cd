@@ -19,12 +19,13 @@ MATLAB과 견줄만한 행렬처리 지원
 패키지 : 개발하여 추가할 수 있는 라이브러리 기능  
 최신 통계기법이나 알고리즘을 패키지를 활용하여 쉽게 활용 가능
 
-# CRAN(The Comprehensive R Archive Network)
-## R studio : R 통합분석, 개발환경 
-[rsudio](www.rstudio.com/) -> 1.0.153
+# CRAN(The Comprehensive R Archive Network)  
+
+# R studio
+> R 통합분석, 개발환경 [R sudio](www.rstudio.com/) -> 1.0.153
 
 * 분석도구비교
- > SAS 비용 : 유료, 고가 / 설치용량 : 크다 / 알고리즘 및 기술반영 : 느림
-   SPSS 비용 : 유료, 고가 / 크다 / 다소 느림
-   R 비용 : 오픈소스 / 적음 / 매우 빠름
+ > SAS 비용 : 유료, 고가 / 설치용량 : 크다 / 알고리즘 및 기술반영 : 느림  
+SPSS 비용 : 유료, 고가 / 크다 / 다소 느림  
+R 비용 : 오픈소스 / 적음 / 매우 빠름
 
