@@ -116,7 +116,6 @@ git push origin :<브랜치명>
 > 새로운 브랜치에서 모든 커밋을 하나의 커밋으로 병합하여 'master' 브랜치로 가져와야할 때 사용하는 명령어
 ```
 // 현재 마크다운 브랜치(마크다운.md 관리하는 브랜치)로 체크아웃하고 git log를 확인한 상태 
--- Develop_md checkout
 
 commit 3b7806f7539e21640005147acbf9f5455f87c0a0 (HEAD -> Develop_md, origin/Develop_md)
 Author: yeeooni <12.12kimiyeon@gmail.com>
