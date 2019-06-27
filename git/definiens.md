@@ -231,6 +231,14 @@ Date:   Thu Jun 27 11:20:02 2019 +0900
 
 // 커밋 내용 수정 후 git log 상태 
 
+commit 864978f152e4fce434488f61da5b31ad37a675af (HEAD -> Develop_git)
+Author: yeeooni <12.12kimiyeon@gmail.com>
+Date:   Thu Jun 27 11:20:02 2019 +0900
+
+    수평선 추가
+    commit : --amend 실행
+```
+
 
 
 
