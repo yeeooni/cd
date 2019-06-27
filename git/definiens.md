@@ -85,6 +85,7 @@ git push --set-upstream origin <브랜치명>
 > 이 문제는 위와 같이 명령어를 입력하여 해결하였다. 브랜치를 생성한다음 _꼭꼭꼭_  
 각자가 local 및 저장소 기준이므로, local의 branch를 remote branch와 연동하는  
 작업을 해주어야 한다. 필수는 아니지만 차후에 관리에 좋다.
+---
 
 + 병합(merge)
 > 브랜치와 브랜치를 합친다라는 개념이라는건 다들 알고 있겠지.  
@@ -96,6 +97,7 @@ git merge <생성했던 브랜치명>
 //그 전에 pull-request를 이용하여 master에서 conflict등의 오류가 없는지 확인하는게 좋다.
 git pull-request
 ```
+---
 
 + 브랜치 삭제
 > 작업이 끝나고, 기준 branch로 pull-request가 종료되어서 merge까지 완료되었다면,  
@@ -111,6 +113,7 @@ git branch -D <브랜치명>
 // 그 후, 원격 브랜치도 삭제해준다.
 git push origin :<브랜치명>
 ```
+---
 
 + merge --squash
 > 새로운 브랜치에서 모든 커밋을 하나의 커밋으로 병합하여 'master' 브랜치로 가져와야할 때 사용하는 명령어
