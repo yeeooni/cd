@@ -8,7 +8,7 @@
 ## 2. 목차
 
 ###### 1. 교육 자료 
-###### 2. 개발언어&형상관리시스템
+###### 2. 언어&형상관리시스템
 ###### 3. 프레임워크
  
 ---
@@ -22,13 +22,12 @@
 |---|IPS, IDS|---|---|---|
 |---|무선 인터넷(WIFI)|---|---|---|
 
-### - 개발언어&형상관리시스템
+### - 언어&형상관리시스템
 
 |언어|[SQL](https://github.com/yeeooni/explicit-knowledge/tree/master/SQL)|CMS(형상관리시스템)|
 |:---:|:---:|:---:|
 |[Java](개발중..)|Oracle|[GIT](https://github.com/yeeooni/explicit-knowledge/tree/master/git)|
-|C|---|[SVN](개발중..)|
-|php|---|---|---|
+|C|MySQL|[SVN](개발중..)|
 |[MarkDown](https://github.com/yeeooni/explicit-knowledge/tree/master/MarkDown)|
 
 ### - 프레임워크
