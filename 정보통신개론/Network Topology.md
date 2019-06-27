@@ -4,17 +4,17 @@
 각 컴퓨터들을 여러가지 형태로 연결하여 구성하는 형태, 네트워크요소들을 물리적으로   
 연결해놓은 것. 연결방식
 
-![Bus Topology](../img/BusTopology.jpeg)
+![Bus Topology](../img/BusTopology.jpeg "버스 토폴로지")
 * Bus Topology : 개방된 케이블에 컴퓨터들이 연결
   * 장점 : 구조가 간단, 비용이 낮음, 추가 및 삭제 용이
   * 단점 : 무분별하게 추가할 경우 통신성능이 낮음, 특정부분이 고장이 나면 전체 네트워크 영향
 
-![Ring Toplogy](../img/RingTopology.jpeg)
+![Ring Toplogy](../img/RingTopology.jpeg "링 토폴로지")
 * Ring Topology : 동그란 형태로 연결되어있는 케이블에 차례로 연결
   * 장점 : 재구성이 쉽다.
   * 단점 : 링한 부분에 문제 발생 시 전체 네트워크에 영향
 
-![Star Topology](../img/StarTopology.jpeg)
+![Star Topology](../img/StarTopology.jpeg "스타 토폴로지")
 * Star Topology : 중앙에 위치한 기기를 중심으로 사방에 기기들이 연결
   * 장점 : 메시형에 비해 설치를 하거나 재구성 간편
   * 단점 : 허브가 고장나면 전체 네트워크에 영향
@@ -27,8 +27,8 @@
 실무에서 많이 사용하는 구조.  
 성형-버스 토폴로지와 성형-링 토폴로지를 많이 사용.
 
-![Mesh Topology](../img/NetworkTopology-Mesh.svg)
-* mesh Topology : 각각의 노드가 네트워크에 대해 데이터를 릴레이하는 네트워크 토폴로지.
+<img src="../img/NetworkTopology-Mesh.svg" width="30%" height="30%" alt="메시 토폴로지" title="메시 토폴로지"/>
+* Mesh Topology : 각각의 노드가 네트워크에 대해 데이터를 릴레이하는 네트워크 토폴로지.
 > 모든 메시 노드들은 네트워크 내의 데이터 분산에 협업한다.  
 무선과 유선망에 모두 적용이 가능하다.
 
