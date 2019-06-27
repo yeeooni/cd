@@ -9,7 +9,7 @@
   * 장점 : 구조가 간단, 비용이 낮음, 추가 및 삭제 용이
   * 단점 : 무분별하게 추가할 경우 통신성능이 낮음, 특정부분이 고장이 나면 전체 네트워크 영향
 
-![Ring Toplogy](../img/RingTopology.jpeg)
+![Ring Toplogy](../img/RingTopology.jpeg "링 토폴로지"){: width="25%" height="25%}
 * Ring Topology : 동그란 형태로 연결되어있는 케이블에 차례로 연결
   * 장점 : 재구성이 쉽다.
   * 단점 : 링한 부분에 문제 발생 시 전체 네트워크에 영향
