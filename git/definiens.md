@@ -115,7 +115,7 @@ git push origin :<브랜치명>
 + merge --squash
 > 새로운 브랜치에서 모든 커밋을 하나의 커밋으로 병합하여 'master' 브랜치로 가져와야할 때 사용하는 명령어
 ```
-// 현재 마크다운 브랜치로 체크아웃하고 git log를 확인한 상태 
+// 현재 마크다운 브랜치(마크다운.md 관리하는 브랜치)로 체크아웃하고 git log를 확인한 상태 
 -- Develop_md checkout
 
 commit 3b7806f7539e21640005147acbf9f5455f87c0a0 (HEAD -> Develop_md, origin/Develop_md)
@@ -144,7 +144,9 @@ Date:   Thu Jun 27 10:42:07 2019 +0900
 
 commit 8921b3d841ff650c4acb588bf95eecc72c832607
 :
+```
 
+```
 // 마스터브랜치로 체크아웃하고 git log를 확인한 상태
 
 commit 3a44151e1173e34340e3e249bc88c6b907b4e1b9 (HEAD -> master, origin/master, origin/HEAD)
@@ -172,7 +174,9 @@ Date:   Wed Jun 26 00:33:06 2019 +0900
 
     수정
 :
+```
 
+```
 // merge --squash 적용 후 마스터 브랜치 git log 상태
 
 kimeuiyeon@nerdy:~/explicit-knowledge$ git log
