@@ -10,7 +10,6 @@
   * 단점 : 무분별하게 추가할 경우 통신성능이 낮음, 특정부분이 고장이 나면 전체 네트워크 영향
 
 ![Ring Toplogy](../img/RingTopology.jpeg "링 토폴로지")
-<img src="../img/RingTopology.jpeg" width="35%" height="35%"/>
 * Ring Topology : 동그란 형태로 연결되어있는 케이블에 차례로 연결
   * 장점 : 재구성이 쉽다.
   * 단점 : 링한 부분에 문제 발생 시 전체 네트워크에 영향
@@ -28,7 +27,7 @@
 실무에서 많이 사용하는 구조.  
 성형-버스 토폴로지와 성형-링 토폴로지를 많이 사용.
 
-![Mesh Topology](../img/NetworkTopology-Mesh.svg)
+<img src="../img/NetworkTopology-Mesh.svg" width="35%" height="35%"/>
 * mesh Topology : 각각의 노드가 네트워크에 대해 데이터를 릴레이하는 네트워크 토폴로지.
 > 모든 메시 노드들은 네트워크 내의 데이터 분산에 협업한다.  
 무선과 유선망에 모두 적용이 가능하다.
