@@ -19,24 +19,25 @@
 
 ```sql
 -- DB에서 데이터를 선택하는데 사용된다.
-	SELECT column1, column2,...columnN -- 테이블의 필드 이름 
-	FROM tableName
-	WHERE '조건문'; 
+-- 테이블의 필드 이름 
+SELECT column1, column2,...columnN 
+FROM tableName
+WHERE '조건문'; 
 
-	-- 보드테이블에서 '이름', '주소'를 추출한다.
-	SELECT 'name', 'address'
-	FROM 'board';
+-- 보드테이블에서 '이름', '주소'를 추출한다.
+SELECT 'name', 'address'
+FROM 'board';
 	
 
 -- 보드테이블의 주소가 '샌프란시스코'인 데이터만 추출한다.
-	SELECT *
-	FROM 'board'
-	WHERE address = '샌프란시스코';
+SELECT *
+FROM 'board'
+WHERE address = '샌프란시스코';
 
 -- 오름차순(ASC), 내림차순(DESC) 정렬 생략 시 Default ASC 
-	SELECT *
-	FROM 'board'
-	ORDER BY email DESC;
+SELECT *
+FROM 'board'
+ORDER BY email DESC;
 ```
 
 ```sql
