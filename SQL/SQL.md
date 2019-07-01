@@ -3,7 +3,7 @@
 데이터베이스 > 액세스 > 표준언어 (구조화 된 쿼리언어 SQL)
 
 * 데이터베이스 생성
- * 테이블 생성(Create)
+  * 테이블 생성(Create)
   * 데이터 검색(Select)
   * 레코드 갱신(Update)
   * 레코드 삽입(Insert)
@@ -12,13 +12,13 @@
 * 테이블 삭제 (Drop)
 
 * 관계형데이터베이스(RDBMS) 
- * SQL, MS SQL, SQL Server, IBM DB2, Oracle, MySQL
+  * SQL, MS SQL, SQL Server, IBM DB2, Oracle, MySQL
 
 > 필드 : 테이블의 모든 레코드에 대한 특정 정보를 유지관리하도록 설계된 테이블의 열  
 레코드 : 테이블의 가로 엔티티
 
 ```sql
-ex) DB에서 데이터를 선택하는데 사용된다.
+-- DB에서 데이터를 선택하는데 사용된다.
 	SELECT column1, column2,...columnN -- 테이블의 필드 이름 
 	FROM tableName
 	WHERE '조건문'; 
@@ -28,29 +28,28 @@ ex) DB에서 데이터를 선택하는데 사용된다.
 	FROM 'board';
 	
 
-ex) 보드테이블의 주소가 '샌프란시스코'인 데이터만 추출한다.
+-- 보드테이블의 주소가 '샌프란시스코'인 데이터만 추출한다.
 	SELECT *
 	FROM 'board'
 	WHERE address = '샌프란시스코';
 
-ex) 오름차순(ASC), 내림차순(DESC) 정렬
-	-- 생략 시 Default ASC 
+-- 오름차순(ASC), 내림차순(DESC) 정렬 생략 시 Default ASC 
 	SELECT *
 	FROM 'board'
 	ORDER BY email DESC;
 ```
 
 ```sql
-데이터 삽입
+-- 데이터 삽입
 INSERT INTO(column1, column2, ...columnN)
 VALUES(...);
 
-데이터 수정
+-- 데이터 수정
+-- 보드테이블의 회원아이디가 '김' 인 사람의 '모바일'번호를 '6422'로 바꾸어라. 
 UPDATE 'board' SET 'mobile' = '6422'
 WHERE 'userID' = 'KIM';
--- 보드테이블의 회원아이디가 '김' 인 사람의 '모바일'번호를 '6422'로 바꾸어라. 
 
-데이터 삭제
+-- 데이터 삭제
 DELETE
 FROM tableName
 WHERE  '조건문';
