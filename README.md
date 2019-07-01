@@ -28,8 +28,8 @@
 |:---:|:---:|:---:|
 |[Java](https://github.com/yeeooni/explicit-knowledge/tree/master/Java)|Oracle|[GIT](https://github.com/yeeooni/explicit-knowledge/tree/master/git)|
 |C|MySQL|[SVN](개발중..)|
-|[MarkDown](https://github.com/yeeooni/explicit-knowledge/tree/master/MarkDown)| |||
-|JavaScript| |||
+|[MarkDown](https://github.com/yeeooni/explicit-knowledge/tree/master/MarkDown) |||
+|JavaScript |||
 
 ### - 프레임워크
 
