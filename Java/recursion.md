@@ -19,3 +19,23 @@ public class code1{ //recursion은 항상 무한루프에 빠지는 것이 아�
 3 >> funk(2) "Hello"
 2 >> funk(1) "Hello"
 ```
+
+```java
+public class code 2{
+	public static void main(String args[]){
+		int result = funk(4);
+	}
+	
+	public static void funk(int n){
+		if(n == 0){
+			return 0;
+		}else {
+			return n + funk(n - 1);
+		}
+	}
+}
+4 + funk(3)
+3 + funk(2)
+2 + funk(1)
+1 + funk(0) = 0
+```
