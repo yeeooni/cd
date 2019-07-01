@@ -26,7 +26,7 @@
 
 |언어|[SQL](https://github.com/yeeooni/explicit-knowledge/tree/master/SQL)|CMS(형상관리시스템)|
 |:---:|:---:|:---:|
-|[Java](개발중..)|Oracle|[GIT](https://github.com/yeeooni/explicit-knowledge/tree/master/git)|
+|[Java](https://github.com/yeeooni/explicit-knowledge/tree/master/Java)|Oracle|[GIT](https://github.com/yeeooni/explicit-knowledge/tree/master/git)|
 |C|MySQL|[SVN](개발중..)|
 |[MarkDown](https://github.com/yeeooni/explicit-knowledge/tree/master/MarkDown)|
 
