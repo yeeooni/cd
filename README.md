@@ -16,7 +16,7 @@
 
 |[알고리즘](https://github.com/yeeooni/explicit-knowledge/tree/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)|[정보보안](https://github.com/yeeooni/explicit-knowledge/tree/master/%EC%A0%95%EB%B3%B4%EB%B3%B4%EC%95%88)|[빅데이터](https://github.com/yeeooni/explicit-knowledge/tree/master/Big%20Data)|[정보통신개론](https://github.com/yeeooni/explicit-knowledge/tree/master/%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%EA%B0%9C%EB%A1%A0)|
 <!--머리글-->|:---:|:---:|:---:|:---:|
-	   <!--알고리즘-->        <!--정보보안-->       <!--빅데이터-->    <!--정보통신개론-->
+<!--알고리즘--><!--정보보안--><!--빅데이터--><!--정보통신개론-->
 <!--1행-->|쉽게 배우는 알고리즘.pdf|정보보안<br/>_KEYWORD_|Big Data<br/>*용어*|정보통신개론|
 <!--2행-->|그리디알고리즘|정보보호의 필요성|빅데이터 정의|Network, internet|
 <!--3행-->|퀵 정렬|침입차단시스템(firewall)|기술통계학|Network Topology|
