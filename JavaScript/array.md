@@ -1,7 +1,7 @@
 # 자바스크립트 배열 
 
 ```javascript
-
+// 배열 
 var nation = ['대한민국', '스웨덴', '네덜란드'];
 alert(nation[0]); // 대한민국
 
