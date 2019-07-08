@@ -5,14 +5,14 @@
 김의연이 이따금 공부를 하다가 생각이 나지 않을 때 언제, 어디서든 찾아볼 수 있도록 만들어진 *지식저장소*입니다:smile:  
 **누구든 나와 같은 마음으로 고민하고 있을 그 순간에 등불이 되기를**
 
-## 2. 목차
+## 2. index
 
 ###### 1. 교육 자료 
 ###### 2. 언어&형상관리시스템
-###### 3. 프레임워크
+###### 3. framework
  
 ---
-### - 교육 자료
+### 교육 자료
 
 |[알고리즘](https://github.com/yeeooni/explicit-knowledge/tree/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)|[정보보안](https://github.com/yeeooni/explicit-knowledge/tree/master/%EC%A0%95%EB%B3%B4%EB%B3%B4%EC%95%88)|[빅데이터](https://github.com/yeeooni/explicit-knowledge/tree/master/Big%20Data)|[정보통신개론](https://github.com/yeeooni/explicit-knowledge/tree/master/%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%EA%B0%9C%EB%A1%A0)|
 |:---:|:---:|:---:|:---:|  
@@ -32,16 +32,16 @@
 |---|---|---|멀티미디어 구성요소|
 |---|---|---|멀티미디어 활용분야|
 
-### - 언어&형상관리시스템
+### 언어&형상관리시스템
 
 |언어|[SQL](https://github.com/yeeooni/explicit-knowledge/tree/master/SQL)|CMS(형상관리시스템)|
 |:---:|:---:|:---:|
 |[Java](https://github.com/yeeooni/explicit-knowledge/tree/master/Java)|Oracle|[GIT](https://github.com/yeeooni/explicit-knowledge/tree/master/git)|
 |C|MySQL|[SVN](개발중..)|
-|[MarkDown](https://github.com/yeeooni/explicit-knowledge/tree/master/MarkDown) |||
-|JavaScript |||
+|[MarkDown(md)](https://github.com/yeeooni/explicit-knowledge/tree/master/MarkDown)||CVS|
+|[JavaScript](https://github.com/yeeooni/explicit-knowledge/tree/master/JavaScript)|
 
-### - 프레임워크
+### framwork
 
 |FrameWork|
 |:---:|
@@ -50,9 +50,10 @@
 |MyBatis|
 
 ---
-## 3. 참고자료 (외부 링크)
+## 3. reference
 1. [git 한글 파일명 사용문제 고치기 core.quotepath](https://edykim.com/ko/post/git-fix-problem-using-filename-core.quotepath/)  
 2. [Ubunto Git 사용법](https://dejavuwing.tistory.com/entry/Ubuntu-GitHub-%EC%82%AC%EC%9A%A9%EB%B2%95)
 3. [MarkDown 이모지 사용법](https://www.webfx.com/tools/emoji-cheat-sheet/)
 4. [MarkDown 에디터](https://pandao.github.io/editor.md/en.html)
 5. [누구나 쉽게 이해할 수 있는 git입문](https://backlog.com/git-tutorial/kr/)
+6. [XShell 6](https://www.netsarang.com/ko/xshell-all-features/)
