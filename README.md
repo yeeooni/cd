@@ -7,15 +7,14 @@
 
 ## 2. index
 
-###### 1.
-###### 2. 
- 
+###### 1. 교육자료
+###### 2. 개발 
 ---
 ### 1.
 
 |[알고리즘](https://github.com/yeeooni/explicit-knowledge/tree/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)|[정보보안](https://github.com/yeeooni/explicit-knowledge/tree/master/%EC%A0%95%EB%B3%B4%EB%B3%B4%EC%95%88)|[빅데이터](https://github.com/yeeooni/explicit-knowledge/tree/master/Big%20Data)|[정보통신개론](https://github.com/yeeooni/explicit-knowledge/tree/master/%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%EA%B0%9C%EB%A1%A0)|FrameWork|
 |:---:|:---:|:---:|:---:|:---:|
-|쉽게 배우는<br/>알고리즘.pdf|_KEYWORD_|*용어*|정보통신개론||e-gov [Spring](https://github.com/yeeooni/explicit-knowledge/tree/master/Spring)||
+|쉽게 배우는<br/>알고리즘.pdf|_KEYWORD_|*용어*|정보통신개론|e-gov [Spring](https://github.com/yeeooni/explicit-knowledge/tree/master/Spring)||
 |그리디알고리즘|정보보호의 필요성|빅데이터 정의|Network, internet|Nexacro|
 |정렬|침입차단시스템(firewall)|기술통계학|Network Topology|MyBatis|
 |점근적 표기법|침입방지시스템(IPS)<br/>침입탐지시스템(IDS)|R|정보처리, 데이터베이스|
@@ -30,7 +29,7 @@
 |---|---|---|해킹|
 |---|---|---|멀티미디어 구성요소|
 |---|---|---|멀티미디어 활용분야|
-
+---
 ### 2.
 
 |언어|[SQL](https://github.com/yeeooni/explicit-knowledge/tree/master/SQL)|CMS(형상관리시스템)|
@@ -39,11 +38,9 @@
 |C|MySQL|[SVN](개발중..)|
 |[MarkDown(md)](https://github.com/yeeooni/explicit-knowledge/tree/master/MarkDown)||CVS|
 |[JavaScript](https://github.com/yeeooni/explicit-knowledge/tree/master/JavaScript)|
-
-
-
 ---
 ## 3. Reference
+
 1. [git 한글 파일명 사용문제 고치기 core.quotepath](https://edykim.com/ko/post/git-fix-problem-using-filename-core.quotepath/)  
 2. [Ubunto Git 사용법](https://dejavuwing.tistory.com/entry/Ubuntu-GitHub-%EC%82%AC%EC%9A%A9%EB%B2%95)
 3. [MarkDown 이모지 사용법](https://www.webfx.com/tools/emoji-cheat-sheet/)
