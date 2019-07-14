@@ -239,6 +239,76 @@ Date:   Thu Jun 27 11:20:02 2019 +0900
     commit : --amend 실행
 ```
 
+# git 명령어 
+
++ git log
+> log 보기
+
+```
+// 로그에 모든 브랜치를 표시하고, 그래프로 표현하고, 브랜치 명을 표시하고, 한줄로 표시할 때
+
+git log --branches --graph --decorate --oneline
+```
+
++ git add 취소하기(파일 상태를 Unstage으로 변경)
+```
+// 모든 파일이 Staged 상태로 전환
+$ git add *
+
+// 파일들의 상태를 확인
+$ git status
+
+// `git reset HEAD [file]` 명령을 통해 git add를 취소 가능 
+$ git reset HEAD [파일명] 생략하면 파일 전체를 취소
+```
+
++ git commit 취소하기 
+```
+// commit 목록 확인
+$ git log 
+
+// [방법 1] commit을 취소하고 해당 파일들을 Staged 상태로 워킹 디렉토리에 보존
+$ git reset --soft HEAD^
+
+// [방법 2] commit을 취소하고 해당 파일들을 Unstaged 상태로 워킹 디렉토리에 보존
+$ git reset --mixed HEAD^
+$ git reset HEAD^
+$ git reset HEAD~2 // 마지막 2개의 commit을 취소
+
+// [방법 3] commit을 취소하고 해당 파일들을 Unstaged 상태로 워킹 디렉토리에서 삭제
+$ git reset --hard HEAD^
+```
+
++ git push 취소하기 
+```
+// 가장 최근의 commit을 취소하고 워킹 디렉토리를 되돌린다.
+$ git reset HEAD^
+
+// 우선 브랜치와 HEAD가 지난 몇 달 동안에 가리켰었던 커밋 목록 확인
+$ git reflog 
+$ git log -g
+
+// 원하는 심점으로 워킹 디렉토리를 되돌린다.
+$ git reset HEAD@{number} 또는 $ git reset [commit id]
+
+// 되돌려진 상태에서 다시 commit을 한다.
+$ git commit -m "커밋 메시지"
+
+// 원격 저장소에 강제로 push 한다.
+$ git push origin [branch name] -f 또는 $ git push origin +[branch name]
+
+```
+
++ git commit -v
+```
+// 커밋메시지를 입력하는 화면 아래 코드 diff가 나온다.
+```
+
++ git commit -am '커밋 메시지 내용'
+```
+`git commit` 명령을 실행할 때 `-a` 옵션을 추가하면 git은 Tracked 상태의 파일을 자동으로 Staging Area에 넣는다.  
+`git add` 명령을 실행하는 수고를 덜 수 있다.
+```
 
 
 
