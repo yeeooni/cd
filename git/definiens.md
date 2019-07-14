@@ -239,7 +239,14 @@ Date:   Thu Jun 27 11:20:02 2019 +0900
     commit : --amend 실행
 ```
 
++ git log
+> log 보기
 
+```
+// 로그에 모든 브랜치를 표시하고, 그래프로 표현하고, 브랜치 명을 표시하고, 한줄로 표시할 때
+
+git log --branches --graph --decorate --oneline
+```
 
 
 
