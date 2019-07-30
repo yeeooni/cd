@@ -6,7 +6,7 @@
 
 2. 종류 
 자료구조|ClassName
-:------:|:-------:|
+|:------:|:-------:|
 |list|ArrayList LinkedList (Vector)|
 |Stack|LinkedList (Stack)|
 |Queue|LinkedList|
