@@ -16,9 +16,9 @@
 `InputStreamReader reader = new InputStreamReader(System.in);`
 `Char char = (Char) reader.read();`
 
-`InputStreamReader reader = new InputStreamReader(System.in);`
-`BufferedReader reader2 = new BufferedReader(reader);`
-`BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));`
+`InputStreamReader reader = new InputStreamReader(System.in);`  
+`BufferedReader reader2 = new BufferedReader(reader);`  
+`BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));`  
 `String str = reader.readLine();`
 
 > 출력 System.out
@@ -48,6 +48,21 @@ ResourceUser obj = new ResourceUser();
 obj.use();
 System.gc();
 ```
+
+> RunFinalization Method : 불필요한 객체들의 finalize Method가 더 빨리 호출되도록 만드는 Method
+`System.runFinalization();`
+
+> ArrayCopy Method : 배열의 일부/전부를 일괄 복사하는 Method
+```java
+int arr[] = {0, 1, 2, 3, 4, 5, 6};
+System.arrayCopy(arr, 0, arr, 5, 10};
+// arr 0 ~ arr 9 / arr 5 ~ arr 14
+```
+
+> CuttentTimeMilleies Method : 시스템 시계로부터 현재시각을 읽는 Method
+`Long time = System.currentTimeMillis(); // 1/1000초 단위`
+
+ 
 
 
 
