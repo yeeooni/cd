@@ -5,13 +5,14 @@
 하나의 데이터가 아닌 여러 데이터를 담을 때 사용하는 것
 
 2. 종류 
+
 |자료구조|ClassName|
 |:------:|:-------:|
-|list|ArrayList LinkedList (Vector)|
-|Stack|LinkedList (Stack)|
-|Queue|LinkedList|
-|HashTable|HashMap (HashTable)|
-|집합|HashSet|
+list|ArrayList LinkedList(Vector)
+stack|LinkedList(Stack)
+Queue|LinkedList
+HashTable|HashMap(HashTable)
+집합|HashSet
 
 - java.util
 - Vector, Stack, HashTable 사용이 권장되지 않음
