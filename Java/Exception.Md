@@ -14,8 +14,8 @@
 
 5. 사용방법
 > getMessage  
-prinStackTrace Method
-catch
-Checked Exception 으로 선언하는 것이 무난
+prinStackTrace Method  
+catch  
+Checked Exception 으로 선언하는 것이 무난  
 Exception 파라미터 변수의 다형성
 
