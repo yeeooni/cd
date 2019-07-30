@@ -5,7 +5,7 @@
 하나의 데이터가 아닌 여러 데이터를 담을 때 사용하는 것
 
 2. 종류 
-자료구조|ClassName
+|자료구조|ClassName|
 |:------:|:-------:|
 |list|ArrayList LinkedList (Vector)|
 |Stack|LinkedList (Stack)|
