@@ -8,11 +8,7 @@ Linux도 준비해야하는데..
 ---
 ## 2. 교육자료
 
-|[알고리즘](https://github.com/yeeooni/explicit-knowledge/tree/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)|
- [정보보안](https://github.com/yeeooni/explicit-knowledge/tree/master/%EC%A0%95%EB%B3%B4%EB%B3%B4%EC%95%88)|
- [빅데이터](https://github.com/yeeooni/explicit-knowledge/tree/master/Big%20Data)                          |
- [정보통신개론](https://github.com/yeeooni/explicit-knowledge/tree/master/%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%EA%B0%9C%EB%A1%A0)|
- FrameWork|운영체제|
+|[알고리즘](https://github.com/yeeooni/explicit-knowledge/tree/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)|[정보보안](https://github.com/yeeooni/explicit-knowledge/tree/master/%EC%A0%95%EB%B3%B4%EB%B3%B4%EC%95%88)|[빅데이터](https://github.com/yeeooni/explicit-knowledge/tree/master/Big%20Data)                          |[정보통신개론](https://github.com/yeeooni/explicit-knowledge/tree/master/%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%EA%B0%9C%EB%A1%A0)|FrameWork|운영체제|
 |            :---:            |            :---:          |        :---:        |        :---:        |        :---:        |        :---:        |
 |쉽게 배우는<br/>알고리즘.pdf|_정보보안_|*용어*|정보통신개론|e-gov [Spring](https://github.com/yeeooni/explicit-knowledge/tree/master/Spring)||컴퓨터시스템(1)|
 |그리디알고리즘              |정보보호의 필요성|빅데이터 정의|Network, internet|Nexacro|---                                                       |
