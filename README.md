@@ -1,12 +1,10 @@
-# IT개발자라면 _꼭꼭꼭_ :exclamation: 필요한 지식
+# 개발자라면 _꼭꼭꼭_ :exclamation:
 
-## 1. 소개
-> 이 공간은 못생겼지만 개성이 넘치고 꾸미길 좋아하는  
-김의연:expressionless:이 이따금 공부를 하다가 생각이 나지 않을 때 언제, 어디서든 찾아볼 수 있도록 만들어진 *지식저장소*입니다:smile:  
-Linux도 준비해야하는데..
+###### 1. 소개
+> 지식저장소:smile:
 
 ---
-## 2. 교육자료
+###### 2. 교육자료
 
 |[알고리즘](https://github.com/yeeooni/explicit-knowledge/tree/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)|[정보보안](https://github.com/yeeooni/explicit-knowledge/tree/master/%EC%A0%95%EB%B3%B4%EB%B3%B4%EC%95%88)|[빅데이터](https://github.com/yeeooni/explicit-knowledge/tree/master/Big%20Data)                          |[정보통신개론](https://github.com/yeeooni/explicit-knowledge/tree/master/%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%EA%B0%9C%EB%A1%A0)|FrameWork|[운영체제](https://github.com/yeeooni/explicit-knowledge/tree/master/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C)|
 |            :---:            |            :---:          |        :---:        |        :---:        |        :---:        |        :---:        |
@@ -27,7 +25,7 @@ Linux도 준비해야하는데..
 |---|---|---|멀티미디어 활용분야| |
 
 ---
-## 3. 언어 & 형상관리시스템
+###### 3. 언어 & 형상관리시스템
 
 |언어|[SQL](https://github.com/yeeooni/explicit-knowledge/tree/master/SQL)|CMS(형상관리시스템)|
 |:---:|:---:|:---:|
@@ -36,8 +34,7 @@ Linux도 준비해야하는데..
 |[MarkDown(md)](https://github.com/yeeooni/explicit-knowledge/tree/master/MarkDown)||CVS|
 |[JavaScript](https://github.com/yeeooni/explicit-knowledge/tree/master/JavaScript)|
 ---
-## 4. Reference
-{. text-center}
+###### 4. Reference
 
 1. [git 한글 파일명 사용문제 고치기 core.quotepath](https://edykim.com/ko/post/git-fix-problem-using-filename-core.quotepath/)  
 2. [Ubunto Git 사용법](https://dejavuwing.tistory.com/entry/Ubuntu-GitHub-%EC%82%AC%EC%9A%A9%EB%B2%95)
