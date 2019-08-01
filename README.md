@@ -1,4 +1,4 @@
-# 개발자라면 _꼭꼭꼭_ :exclamation:
+# _꼭꼭꼭_ :exclamation:
 
 ###### 1. 소개
 > 지식저장소:smile:
