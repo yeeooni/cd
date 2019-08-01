@@ -69,7 +69,7 @@ LinkedList<Integer> stack = new LinkedList<Integer>();
 stack.addLast(new Integer(12)); // Stack 12 추가
 ```
 
-##Queue : 데이터를 넣은 순서와 같은 순서로만 꺼낼 수 있는 자료 구조
+## Queue : 데이터를 넣은 순서와 같은 순서로만 꺼낼 수 있는 자료 구조
 > Queue 에 넣은 데이터는 순서대로 저장  
 Queue에서 데이터를 꺼낼때는 넣은 순서대로 꺼내진다.  
 Queue로 사용할 수 있는 Class : LinkedList Class
