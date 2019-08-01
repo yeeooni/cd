@@ -23,7 +23,7 @@ list.add("포도");
 list.add(new Integer(52)); // 불가능
 ```
 
-##list : ArrayList Class
+## list : ArrayList Class
 - 리스트에 저장할 데이터의 타입을 정한다.
 - 타입 파라미터로 ArrayList 객체를 생성
 - ArrayList객체에 데이터를 저장
@@ -36,7 +36,7 @@ list.add(new Integer(52)); // 불가능
 - 데이터 검색(1) `int index = list.indexOf("사과");` // 사과의 위치를 확인
 - 데이터 검색(2) `int index = list.lastIndexOf("사과");` // 중복된 사과의 위치 중 가장 마지막 위치 확인
 
-##list : LinkedList Class
+## list : LinkedList Class
 ```java
 LinkedList<String> list = new LinkedList<String>();
 list.add("포도");
@@ -62,13 +62,13 @@ for(String str : list){
 그 Iterator 객체를 이용하여 얻은 데이터가 str 변수에 자동으로 대입
 ```
 
-##Stack : 데이터를 넣은 순서의 역순으로만 꺼낼 수 있는 자료 구조 
+## Stack : 데이터를 넣은 순서의 역순으로만 꺼낼 수 있는 자료 구조 
 ```java
 LinkedList<Integer> stack = new LinkedList<Integer>();
 stack.addLast(new Integer(12)); // Stack 12 추가
 ```
 
-##Queue : 데이터를 넣은 순서와 같은 순서로만 꺼낼 수 있는 자료 구조
+## Queue : 데이터를 넣은 순서와 같은 순서로만 꺼낼 수 있는 자료 구조
 > Queue 에 넣은 데이터는 순서대로 저장  
 Queue에서 데이터를 꺼낼때는 넣은 순서대로 꺼내진다.  
 Queue로 사용할 수 있는 Class : LinkedList Class
@@ -80,7 +80,7 @@ str = queue.poll(); // 제일 앞에 있는 "토끼"가 나온다.
 str = queue.peek(); // 데이터는 그대로 보존한 체 값을 return
 ```
 
-##HashTable : 여러개의 통을 만들어두고 키값을 이용하여 데이터를 넣을 통 번호를 계산하는 자료 구조
+## HashTable : 여러개의 통을 만들어두고 키값을 이용하여 데이터를 넣을 통 번호를 계산하는 자료 구조
 > HashMap Class 기본으로 생성할 경우 16개가 만들어진다.
 
 ```java
@@ -106,7 +106,7 @@ Public int hashCode(){
 }
 ```
 
-##Set : 수학에서 말하는 집합처럼 데이터를 중복 저장하지 않는다.
+## Set : 수학에서 말하는 집합처럼 데이터를 중복 저장하지 않는다.
 > HashSet Class
 ```java
 HashSet <String> hashSet = new HashSet<String>();
