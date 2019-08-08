@@ -8,6 +8,9 @@
 - `cat /etc/passwd | grep postgres` 관리자 계정 생성 확인
 - `/etc/init.d/postgresql status` `netstat -tnlp | grep postgres` localhost에서만 접속 가능
 - `sudo -u postgres psql template1` postgres 계정 패스워드 변경
+
+
+2. Ubuntu PostgreSQL 확인.
 - `sudo -i -u postgres` postgres 계정으로 접속
 - `psql` 데이터베이스 접속
 - `\q` 나가기
