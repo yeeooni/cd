@@ -2,7 +2,7 @@
 
 > 기존에 사용하고 있던 openjdk 8 버전 삭제.
 
-- Open JDK 삭제
+- Open JDK 삭제  
 `sudo apt-get purge openjdk*`
 
 - 순서
