@@ -42,3 +42,6 @@
 4. [MarkDown 에디터](https://pandao.github.io/editor.md/en.html)
 5. [누구나 쉽게 이해할 수 있는 git 입문](https://backlog.com/git-tutorial/kr/)
 6. [XShell 6](https://www.netsarang.com/ko/xshell-all-features/)
+
+###### 5. 데이터베이스
+- 정규화(Normalization)
