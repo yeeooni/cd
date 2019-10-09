@@ -1,4 +1,4 @@
-###### :pushpin: 연이가 공부할 때 까먹지 않도록 저장해놓은 지식저장소:smile: <br/> **완벽보단, 꾸준히. :running:
+###### :pushpin: 연이가 공부할 때 까먹지 않도록 저장해놓은 지식저장소:smile: 완벽보단, 꾸준히. :running:
 
 |정보보안|알고리즘|
 |:------:|:------:|
@@ -22,7 +22,8 @@
 
 |JavaScript|
 |:--------:|
-|[![JavaScript](img/javascript.png "출처:구글")](https://github.com/yeeooni/explicit-knowledge/tree/master/JavaScript)|
+
+|[<img src="img/javascript.png" width="100%"/>](https://github.com/yeeooni/explicit-knowledge/tree/master/JavaScript)|
 
 ---
 # Reference
