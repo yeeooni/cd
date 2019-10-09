@@ -1,9 +1,5 @@
-###### :octocat:
+## :octocat: :pushpin:
 > 연이가 공부할 때 까먹지 않도록 저장해놓은 지식저장소:smile: <br/> **완벽보단, 꾸준히.**
-
----
-###### 2. :pushpin:
-
 
 |정보보안|알고리즘|
 |:------:|:------:|
@@ -16,14 +12,16 @@
 |정보통신개론|운영체제|
 |:----------:|:------:|
 |[![정보통신개론](img/B8589428714_l.jpg "출처 정보통신개론")](https://github.com/yeeooni/explicit-knowledge/tree/master/%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%EA%B0%9C%EB%A1%A0)|[![운영체제](img/os.png "출처 https://cloudstudying.kr/lectures/182")](https://github.com/yeeooni/explicit-knowledge/tree/master/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C)|
----
-###### 3. 언어 & 형상관리시스템
 
-|언어|[SQL](https://github.com/yeeooni/explicit-knowledge/tree/master/SQL)|CMS(형상관리시스템)|
+|MD|
+|:-:|
+|[![MarkDown](img/markdown.png "출처:위키백과")](https://github.com/yeeooni/explicit-knowledge/tree/master/MarkDown)|
+
+|언어|SQL|CMS(형상관리시스템)|
 |:---:|:---:|:---:|
-|[Java](https://github.com/yeeooni/explicit-knowledge/tree/master/Java)|Oracle|[GIT](https://github.com/yeeooni/explicit-knowledge/tree/master/git)|
+|[Java](https://github.com/yeeooni/explicit-knowledge/tree/master/Java)|[![SQL](img/sql.png "sql")](https://github.com/yeeooni/explicit-knowledge/tree/master/SQL)|[GIT](https://github.com/yeeooni/explicit-knowledge/tree/master/git)|
 |C|MySQL|[SVN](개발중..)|
-|[MarkDown(md)](https://github.com/yeeooni/explicit-knowledge/tree/master/MarkDown)|PostgreSQL|CVS|
+||PostgreSQL|CVS|
 |[JavaScript](https://github.com/yeeooni/explicit-knowledge/tree/master/JavaScript)|
 ---
 ###### 4. Reference
