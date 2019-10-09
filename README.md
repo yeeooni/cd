@@ -7,8 +7,8 @@
 ###### 2. 교육자료
 
 |알고리즘|정보보안|빅데이터|FrameWork|
-|            :---:            |            :---:          |        :---:        |        :---:        |        :---:        |
-|[![알고리즘](img/algorith.png "출처 인프런")](https://github.com/yeeooni/explicit-knowledge/tree/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)|[![정보보안](img/1.jpg "출처 구글 검색 정보보안")](https://github.com/yeeooni/explicit-knowledge/tree/master/%EC%A0%95%EB%B3%B4%EB%B3%B4%EC%95%88)|[![빅데이터](img/bigdata.jpg "출처 구글 검색 빅데이터")](https://github.com/yeeooni/explicit-knowledge/tree/master/Big%20Data)|정보통신개론|e-gov [Spring](https://github.com/yeeooni/explicit-knowledge/tree/master/Spring)|컴퓨터시스템(1)|
+|            :---:            |            :---:          |        :---:        |        :---:        |
+|[![알고리즘](img/algorith.png "출처:인프런")](https://github.com/yeeooni/explicit-knowledge/tree/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)|||정보통신개론|e-gov |컴퓨터시스템(1)|
 |그리디알고리즘              |정보보호의 필요성|빅데이터 정의|Network, internet|Nexacro|컴퓨터시스템(2)|
 |정렬|침입차단시스템(firewall)|기술통계학|Network Topology|MyBatis|운영체제의 역할|
 |점근적 표기법|침입방지시스템(IPS)<br/>침입탐지시스템(IDS)|R|정보처리, 데이터베이스|Filezilla|운영체제발전과정|
@@ -23,6 +23,14 @@
 |---|---|---|해킹|  |
 |---|---|---|멀티미디어 구성요소| |
 |---|---|---|멀티미디어 활용분야| |
+
+|정보보안|
+|:------:|
+|[![정보보안](img/Information security.jpg "출처:구글 정보보안")](https://github.com/yeeooni/explicit-knowledge/tree/master/%EC%A0%95%EB%B3%B4%EB%B3%B4%EC%95%88)|
+
+|빅데이터|Spring|
+|:------:|:----:|
+|[![빅데이터](img/bigdata.jpg "출처 구글 검색 빅데이터")](https://github.com/yeeooni/explicit-knowledge/tree/master/Big%20Data)|[![Spring](img/spring.png "스프링")](https://github.com/yeeooni/explicit-knowledge/tree/master/Spring)|
 
 |정보통신개론|운영체제|
 |:----------:|:------:|
