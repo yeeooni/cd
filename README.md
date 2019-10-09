@@ -13,9 +13,9 @@
 |:----------:|:-:|
 |[![정보통신개론](img/B8589428714_l.jpg "출처:구글")](https://github.com/yeeooni/explicit-knowledge/tree/master/%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%EA%B0%9C%EB%A1%A0)|[![MarkDown](img/markdown.png "출처:위키백과")](https://github.com/yeeooni/explicit-knowledge/tree/master/MarkDown)|
 
-|운영체제|SQL|
-|:------:|:-:|
-|[![운영체제](img/os.png "출처:https://cloudstudying.kr/lectures/182")](https://github.com/yeeooni/explicit-knowledge/tree/master/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C)|[![SQL](img/sql.png "sql")](https://github.com/yeeooni/explicit-knowledge/tree/master/SQL)|
+|운영체제|SQL|PostgreSQL|
+|:------:|:-:|:--------:|
+|[![운영체제](img/os.png "출처:https://cloudstudying.kr/lectures/182")](https://github.com/yeeooni/explicit-knowledge/tree/master/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C)|[![SQL](img/sql.png "sql")](https://github.com/yeeooni/explicit-knowledge/tree/master/SQL)|[![PostgreSQL](img/What-is-PostgreSQL.png "출처:구글")](개발중..)|
 
 |Java|Git|
 |:--:|:-:|
