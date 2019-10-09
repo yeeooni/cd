@@ -8,7 +8,7 @@
 
 |알고리즘|정보보안|빅데이터|[정보통신개론](https://github.com/yeeooni/explicit-knowledge/tree/master/%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%EA%B0%9C%EB%A1%A0)|FrameWork|[운영체제](https://github.com/yeeooni/explicit-knowledge/tree/master/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C)|
 |            :---:            |            :---:          |        :---:        |        :---:        |        :---:        |        :---:        |
-|[![알고리즘](img/algorith.png "출처 인프런"){:height="300" width="300"}](https://github.com/yeeooni/explicit-knowledge/tree/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)|[![정보보안](img/1.jpg "출처 구글"){:height="300" width="300"}](https://github.com/yeeooni/explicit-knowledge/tree/master/%EC%A0%95%EB%B3%B4%EB%B3%B4%EC%95%88)|[![빅데이터](img/bigdata.jpg "빅데이터"){:height="300" width="300"}](https://github.com/yeeooni/explicit-knowledge/tree/master/Big%20Data)|정보통신개론|e-gov [Spring](https://github.com/yeeooni/explicit-knowledge/tree/master/Spring)|컴퓨터시스템(1)|
+|[![알고리즘](img/algorith.png "출처 인프런")](https://github.com/yeeooni/explicit-knowledge/tree/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98){:height="300" width="300"}|[![정보보안](img/1.jpg "출처 구글"){:height="300" width="300"}](https://github.com/yeeooni/explicit-knowledge/tree/master/%EC%A0%95%EB%B3%B4%EB%B3%B4%EC%95%88)|[![빅데이터](img/bigdata.jpg "빅데이터"){:height="300" width="300"}](https://github.com/yeeooni/explicit-knowledge/tree/master/Big%20Data)|정보통신개론|e-gov [Spring](https://github.com/yeeooni/explicit-knowledge/tree/master/Spring)|컴퓨터시스템(1)|
 |그리디알고리즘              |정보보호의 필요성|빅데이터 정의|Network, internet|Nexacro|컴퓨터시스템(2)|
 |정렬|침입차단시스템(firewall)|기술통계학|Network Topology|MyBatis|운영체제의 역할|
 |점근적 표기법|침입방지시스템(IPS)<br/>침입탐지시스템(IDS)|R|정보처리, 데이터베이스|Filezilla|운영체제발전과정|
