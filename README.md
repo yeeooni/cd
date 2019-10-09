@@ -6,8 +6,8 @@
 ---
 ###### 2. 교육자료
 
-|알고리즘|정보보안|빅데이터|정보통신개론|FrameWork|[운영체제](https://github.com/yeeooni/explicit-knowledge/tree/master/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C)|
-|            :---:            |            :---:          |        :---:        |        :---:        |        :---:        |        :---:        |
+|알고리즘|정보보안|빅데이터|FrameWork|[운영체제](https://github.com/yeeooni/explicit-knowledge/tree/master/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C)|
+|            :---:            |            :---:          |        :---:        |        :---:        |        :---:        |
 |[![알고리즘](img/algorith.png "출처 인프런")](https://github.com/yeeooni/explicit-knowledge/tree/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)|[![정보보안](img/1.jpg "출처 구글 검색 정보보안")](https://github.com/yeeooni/explicit-knowledge/tree/master/%EC%A0%95%EB%B3%B4%EB%B3%B4%EC%95%88)|[![빅데이터](img/bigdata.jpg "출처 구글 검색 빅데이터")](https://github.com/yeeooni/explicit-knowledge/tree/master/Big%20Data)|정보통신개론|e-gov [Spring](https://github.com/yeeooni/explicit-knowledge/tree/master/Spring)|컴퓨터시스템(1)|
 |그리디알고리즘              |정보보호의 필요성|빅데이터 정의|Network, internet|Nexacro|컴퓨터시스템(2)|
 |정렬|침입차단시스템(firewall)|기술통계학|Network Topology|MyBatis|운영체제의 역할|
@@ -26,7 +26,7 @@
 
 |정보통신개론|
 |:----------:|
-|[![정보통신개론](img/B8589328714_l.jpg "출처 정보통신개론")](https://github.com/yeeooni/explicit-knowledge/tree/master/%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%EA%B0%9C%EB%A1%A0)|
+|[![정보통신개론](img/B8589428714_l.jpg "출처 정보통신개론")](https://github.com/yeeooni/explicit-knowledge/tree/master/%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%EA%B0%9C%EB%A1%A0)|
 ---
 ###### 3. 언어 & 형상관리시스템
 
