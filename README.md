@@ -3,23 +3,27 @@
 
 |정보보안|알고리즘|
 |:------:|:------:|
-|[![정보보안](img/InformationSecurity.jpg "출처:구글 정보보안")](https://github.com/yeeooni/explicit-knowledge/tree/master/%EC%A0%95%EB%B3%B4%EB%B3%B4%EC%95%88)|[![알고리즘](img/algorith.png "출처:인프런")](https://github.com/yeeooni/explicit-knowledge/tree/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)|
+|[![정보보안](img/InformationSecurity.jpg "출처:구글")](https://github.com/yeeooni/explicit-knowledge/tree/master/%EC%A0%95%EB%B3%B4%EB%B3%B4%EC%95%88)|[![알고리즘](img/algorith.png "출처:인프런")](https://github.com/yeeooni/explicit-knowledge/tree/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)|
 
 |빅데이터|Spring|
 |:------:|:----:|
-|[![빅데이터](img/bigdata.jpg "출처 구글 검색 빅데이터")](https://github.com/yeeooni/explicit-knowledge/tree/master/Big%20Data)|[![Spring](img/spring.png "스프링")](https://github.com/yeeooni/explicit-knowledge/tree/master/Spring)|
+|[![빅데이터](img/bigdata.jpg "출처:구글")](https://github.com/yeeooni/explicit-knowledge/tree/master/Big%20Data)|[![Spring](img/spring.png "스프링")](https://github.com/yeeooni/explicit-knowledge/tree/master/Spring)|
 
 |정보통신개론|운영체제|
 |:----------:|:------:|
-|[![정보통신개론](img/B8589428714_l.jpg "출처 정보통신개론")](https://github.com/yeeooni/explicit-knowledge/tree/master/%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%EA%B0%9C%EB%A1%A0)|[![운영체제](img/os.png "출처 https://cloudstudying.kr/lectures/182")](https://github.com/yeeooni/explicit-knowledge/tree/master/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C)|
+|[![정보통신개론](img/B8589428714_l.jpg "출처:구글")](https://github.com/yeeooni/explicit-knowledge/tree/master/%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%EA%B0%9C%EB%A1%A0)|[![운영체제](img/os.png "출처:https://cloudstudying.kr/lectures/182")](https://github.com/yeeooni/explicit-knowledge/tree/master/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C)|
 
-|MD|
-|:-:|
-|[![MarkDown](img/markdown.png "출처:위키백과")](https://github.com/yeeooni/explicit-knowledge/tree/master/MarkDown)|
+|MD|SQL|
+|:-:|:---:|
+|[![MarkDown](img/markdown.png "출처:위키백과")](https://github.com/yeeooni/explicit-knowledge/tree/master/MarkDown)|[![SQL](img/sql.png "sql")](https://github.com/yeeooni/explicit-knowledge/tree/master/SQL)|
 
-|언어|SQL|CMS(형상관리시스템)|
-|:---:|:---:|:---:|
-|[Java](https://github.com/yeeooni/explicit-knowledge/tree/master/Java)|[![SQL](img/sql.png "sql")](https://github.com/yeeooni/explicit-knowledge/tree/master/SQL)|[GIT](https://github.com/yeeooni/explicit-knowledge/tree/master/git)|
+|Java|Git|
+|:--:|:--:|
+|[![Java](img/java.jpg "출처:구글")](https://github.com/yeeooni/explicit-knowledge/tree/master/Java)||[GIT](https://github.com/yeeooni/explicit-knowledge/tree/master/git)|
+
+|언어|CMS(형상관리시스템)|
+|:---:|:---:|
+||
 |C|MySQL|[SVN](개발중..)|
 ||PostgreSQL|CVS|
 |[JavaScript](https://github.com/yeeooni/explicit-knowledge/tree/master/JavaScript)|
