@@ -20,9 +20,7 @@
 |:--:|:-:|
 |[![Java](img/java.jpg "출처:구글")](https://github.com/yeeooni/explicit-knowledge/tree/master/Java)|[![GIT](img/git.png "출처:구글")](https://github.com/yeeooni/explicit-knowledge/tree/master/git)|
 
-|JavaScript|
-|:--------:|
-|[<img src="img/javascript.png" width="100%"/>](https://github.com/yeeooni/explicit-knowledge/tree/master/JavaScript)|
+[<img src="img/javascript.png" width="100%"/>](https://github.com/yeeooni/explicit-knowledge/tree/master/JavaScript)
 
 ---
 # Reference
