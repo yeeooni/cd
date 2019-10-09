@@ -1,32 +1,13 @@
-# :school_satchel: :jeans:
-
-###### 1. 소개
+###### :octocat:
 > 연이가 공부할 때 까먹지 않도록 저장해놓은 지식저장소:smile: <br/> **완벽보단, 꾸준히.**
 
 ---
-###### 2. 교육자료
+###### 2. :pushpin:
 
-|알고리즘|정보보안|빅데이터|FrameWork|
-|            :---:            |            :---:          |        :---:        |        :---:        |
-|[![알고리즘](img/algorith.png "출처:인프런")](https://github.com/yeeooni/explicit-knowledge/tree/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)|||정보통신개론|e-gov |컴퓨터시스템(1)|
-|그리디알고리즘              |정보보호의 필요성|빅데이터 정의|Network, internet|Nexacro|컴퓨터시스템(2)|
-|정렬|침입차단시스템(firewall)|기술통계학|Network Topology|MyBatis|운영체제의 역할|
-|점근적 표기법|침입방지시스템(IPS)<br/>침입탐지시스템(IDS)|R|정보처리, 데이터베이스|Filezilla|운영체제발전과정|
-|점화식과 알고리즘<br/>복잡도 분석|무선 인터넷(WIFI)|확률분포|데이터베이스 시스템|Xshell 6|메모리관리(1)|
-|선택 알고리즘|Extrusion Detection|표본분포|데이터베이스 관리시스템|메모리관리(2)|
-|알고리즘|악성 소프트웨어|중심극한정리|인터넷 활용 서비스|교착상태와 기아상태(1)|
-|분할정복 알고리즘|모바일 악성 소프트웨어|BI|무선 네트워크 기술|  |
-|---|침해사례연구(1)|---|소프트웨어 공학|  |
-|---|---|---|소프트웨어 개발|  |
-|---|---|---|소프트웨어 유지보수 절차<br/>품질관리유형|  |
-|---|---|---|정보보안|  |
-|---|---|---|해킹|  |
-|---|---|---|멀티미디어 구성요소| |
-|---|---|---|멀티미디어 활용분야| |
 
-|정보보안|
-|:------:|
-|[![정보보안](img/InformationSecurity.jpg "출처:구글 정보보안")](https://github.com/yeeooni/explicit-knowledge/tree/master/%EC%A0%95%EB%B3%B4%EB%B3%B4%EC%95%88)|
+|정보보안|알고리즘|
+|:------:|:------:|
+|[![정보보안](img/InformationSecurity.jpg "출처:구글 정보보안")](https://github.com/yeeooni/explicit-knowledge/tree/master/%EC%A0%95%EB%B3%B4%EB%B3%B4%EC%95%88)|[![알고리즘](img/algorith.png "출처:인프런")](https://github.com/yeeooni/explicit-knowledge/tree/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)|
 
 |빅데이터|Spring|
 |:------:|:----:|
