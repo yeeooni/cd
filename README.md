@@ -26,7 +26,7 @@
 
 |정보보안|
 |:------:|
-|[![정보보안](img/Information security.jpg "출처:구글 정보보안")](https://github.com/yeeooni/explicit-knowledge/tree/master/%EC%A0%95%EB%B3%B4%EB%B3%B4%EC%95%88)|
+|[![정보보안](img/InformationSecurity.jpg "출처:구글 정보보안")](https://github.com/yeeooni/explicit-knowledge/tree/master/%EC%A0%95%EB%B3%B4%EB%B3%B4%EC%95%88)|
 
 |빅데이터|Spring|
 |:------:|:----:|
