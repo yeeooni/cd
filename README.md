@@ -22,7 +22,6 @@
 
 |JavaScript|
 |:--------:|
-
 |[<img src="img/javascript.png" width="100%"/>](https://github.com/yeeooni/explicit-knowledge/tree/master/JavaScript)|
 
 ---
