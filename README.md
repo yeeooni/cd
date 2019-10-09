@@ -19,7 +19,7 @@
 
 |Java|Git|
 |:--:|:-:|
-|[![Java](img/java.jpg "출처:구글")](https://github.com/yeeooni/explicit-knowledge/tree/master/Java)||[GIT](https://github.com/yeeooni/explicit-knowledge/tree/master/git)|![Git](img/git.png "출처:구글")|
+|[![Java](img/java.jpg "출처:구글")](https://github.com/yeeooni/explicit-knowledge/tree/master/Java)|[![GIT](img/git.png "출처:구글")](https://github.com/yeeooni/explicit-knowledge/tree/master/git)|
 
 |JavaScript|
 |:--------:|
