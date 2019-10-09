@@ -25,15 +25,8 @@
 |:--------:|
 |[![JavaScript](img/javascript.png "출처:구글")](https://github.com/yeeooni/explicit-knowledge/tree/master/JavaScript)|
 
-
-|언어|CMS(형상관리시스템)|
-|:---:|:---:|
-||
-|C|MySQL|[SVN](개발중..)|
-||PostgreSQL|CVS|
-
 ---
-###### 4. Reference
+# Reference
 
 1. [git 한글 파일명 사용문제 고치기 core.quotepath](https://edykim.com/ko/post/git-fix-problem-using-filename-core.quotepath/)  
 2. [Ubunto Git 사용법](https://dejavuwing.tistory.com/entry/Ubuntu-GitHub-%EC%82%AC%EC%9A%A9%EB%B2%95)
