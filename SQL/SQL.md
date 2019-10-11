@@ -1,16 +1,16 @@
-#SQL
+# SQL
 
 > 1986년 ANSI 표준, 1987년 ISO 표준  
 데이터베이스 > 액세스 > 표준언어 (구조화 된 쿼리언어 SQL)
 
 * 데이터베이스 생성
-  * 테이블 생성(Create)
-  * 데이터 검색(Select)
-  * 레코드 갱신(Update)
-  * 레코드 삽입(Insert)
-  * 레코드 삭제(Delete)
-* 테이블 수정 (Alter)
-* 테이블 삭제 (Drop)
+  * 테이블 생성(CREATE)
+  * 데이터 검색(SELECT)
+  * 레코드 갱신(UPDATE)
+  * 레코드 삽입(INSERT)
+  * 레코드 삭제(DELETE)
+* 테이블 수정 (ALTER)
+* 테이블 삭제 (DROP)
 
 * 관계형데이터베이스(RDBMS) 
   * SQL, MS SQL, SQL Server, IBM DB2, Oracle, MySQL
@@ -29,7 +29,6 @@ WHERE '조건문';
 SELECT 'name', 'address'
 FROM 'board';
 	
-
 -- 보드테이블의 주소가 '샌프란시스코'인 데이터만 추출한다.
 SELECT *
 FROM 'board'
@@ -56,10 +55,11 @@ DELETE
 FROM tableName
 WHERE  '조건문';
 ```
-
 > NOT NULL : 열의 NULL값을 허용하지 않는다. (중복성 배제)  
 UNIQUE : 열의 모든 값이 서로 다른지 확인한다.(유일한 값으로 존재한다.)  
 PRIMARY KEY(NOT NULL + UNIQUE) : 열의 데이터베이스 테이블의 각 레코드를 고유하게 식별한다.  
- 
+
+SCHEMA : DDL의 역할
+`CREATE SCHEMA [DATABASE]` 
 	 
 
