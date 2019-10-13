@@ -308,8 +308,12 @@ $ git push origin [branch name] -f 또는 $ git push origin +[branch name]
 ```
 `git commit` 명령을 실행할 때 `-a` 옵션을 추가하면 git은 Tracked 상태의 파일을 자동으로 Staging Area에 넣는다.  
 `git add` 명령을 실행하는 수고를 덜 수 있다.
+
 ```
 
+**CHERRY-PICK**
+_브랜치1, 브랜치2가 존재할 때 브랜치2의 특정 commit 내용을 브랜치1로 가져오고 싶을 때_  
+_브랜치2의 log를 확인하여 주소를 복사하고, 브랜치1로 checkout 후 git cherry-pick (커밋 주소)_
 
 
 
