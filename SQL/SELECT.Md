@@ -102,7 +102,7 @@ SELECT employee_id, fisrt_name, salary
 FROM employees
 ORDER BY salary DESC; /* 급여순 내림차순 정렬 */
 
--- 별칭으로 정렬 가능
+-- 별칭 정렬 가능 
 
 SELECT department_id did, employee_id eid, first_name, salary sal
 FROM employees
