@@ -36,12 +36,12 @@ IDENTIFIED BY 변경할 비밀번호;
 
 -- 계정 권한 할당
 GRANT 권한명 TO 계정;
+```
 
 |시스템 권한 종류| 내용 |
 |:--:|:--:|
 |CREATE USER|데이터 베이스 유저 생성 권한|
 |SELECT ANY TABLE|모든 유저의 테이블 조회 권한|
 
-```
 
 
