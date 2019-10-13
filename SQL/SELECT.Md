@@ -108,6 +108,11 @@ SELECT department_id did, employee_id eid, first_name, salary sal
 FROM employees
 ORDER BY did, sal DESC;
 
+-- 중복행 제거 
+
+SELECT [all | DISTINCT ] ( * | col1, col2, col3, conl^n) 
+FROM table_name 
+
 --SUB QUERY
 
 SELECT employee_id, first_name, department_id /* 도시 seattle 사번, 이름, 부서번호 */
@@ -117,5 +122,24 @@ WHERE department_id IN ( SELECT department_id
 			 WHERE location_id = ( SELECT location_id
 					       FROM locations
 					       WHERE lower(city) = lower('seattle')));
+-- NVL : coloumn에 NULL이 존재한다면.
 
+SELECT NVL(column, 0)
+FROM table_name; /* NULL >> 0 */
+
+-- 별칭 ( Alias )
+
+SELECT employee_id AS 사번, first_name AS 이름, salary AS 급여
+FROM employees;
+
+SELECT employee_id 사번, first_name 이름, salary 급여
+FROM employees;
+
+SELECT employee_id "사번", first_name "이름", salary "급여"
+FROM employees;
+
+-- 연결자 column1 || '문자열 OR 공백' || column2
+
+SELECT '사번이 ' || employee_id ||'인 사원의 이름은 ' || first_name ||' '|| last_name || '입니다.
+FROM employees;
 ```
