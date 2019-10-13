@@ -50,7 +50,7 @@ WHERE department_id IN (50, 60, 80); /* 부서번호 50, 60, 80인 사번, 이�
 
 SELECT employee_id, first_name, department_id 
 FROM employees
-WHERE department_id != 50 AND department_id !=60 AND department_id !=80;
+WHERE department_id != 50 AND department_id != 60 AND department_id != 80;
 
 -- NOT IN
 
