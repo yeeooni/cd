@@ -85,6 +85,17 @@ git push --set-upstream origin <브랜치명>
 > 이 문제는 위와 같이 명령어를 입력하여 해결하였다. 브랜치를 생성한다음 _꼭꼭꼭_  
 각자가 local 및 저장소 기준이므로, local의 branch를 remote branch와 연동하는  
 작업을 해주어야 한다. 필수는 아니지만 차후에 관리에 좋다.
+_Git을 사용하다보면 원격 저장소에 있는 **branch**를 로컬 저장소로 pull 하는 경우가 있다._
+
+_협업을 하고 있는 다른 팀원은 branch를 가져와서 작업을 해야하는 경우,  혼자서 2대의 pc를 사용하고 작업파일을 git으로 관리하는데 branch를 따서 작업하는 경우 저장소를 그대로 clone을 하던지 pull을 하면 원격 저장소의 branch도 같이 받아질 것이라 생각하지만 그렇지 않다._
+
+`git checkout -t [원격저장소의 branchName]` 명령을 이용하여 가져와야한다.
+
+1. `git remote update`
+
+2. `git branch -r` 원격 저장소의 branch 리스트 확인
+3. `git checkout -t [branchName]`
+
 ---
 
 + 병합(merge)
