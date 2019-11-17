@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="A" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="592px" height="451px" viewBox="0 0 592 451" enable-background="new 0 0 592 451" xml:space="preserve">
+<filter  id="AI_GaussianBlur_7">
+	<feGaussianBlur  stdDeviation="7"></feGaussianBlur>
+</filter>
+<symbol  id="_x31_" viewBox="-62 -62 124 124">
+	<g opacity="0.2" filter="url(#AI_GaussianBlur_7)">
+		<path fill="#999999" d="M-0.2,51.7c-28.397,0-51.5-23.104-51.5-51.5s23.103-51.5,51.5-51.5S51.3-28.196,51.3,0.2
+			S28.197,51.7-0.2,51.7z"/>
+	</g>
+	
+		<use xlink:href="#New_Symbol"  width="79" height="79" x="-39.5" y="-39.5" transform="matrix(1 0 0 1 -1.2002 7.2002)" overflow="visible"/>
+</symbol>
+<symbol  id="New_Symbol" viewBox="-39.5 -39.5 79 79">
+	<radialGradient id="SVGID_1_" cx="6" cy="12" r="50.0899" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#7FFF99"/>
+		<stop  offset="1" style="stop-color:#02582F"/>
+	</radialGradient>
+	<path fill="url(#SVGID_1_)" stroke="#000000" stroke-width="7" stroke-miterlimit="10" d="M36,0c0-19.881-16.119-36-36-36
+		S-36-19.881-36,0c0,19.883,16.119,36,36,36S36,19.883,36,0z"/>
+</symbol>
+<line fill="none" stroke="#000000" stroke-width="7" stroke-miterlimit="10" x1="89" y1="216.997" x2="366" y2="355.997"/>
+<line fill="none" stroke="#000000" stroke-width="7" stroke-miterlimit="10" x1="87" y1="73.998" x2="373" y2="360.998"/>
+<line fill="none" stroke="#000000" stroke-width="7" stroke-miterlimit="10" x1="225" y1="70.998" x2="374" y2="217.998"/>
+<line fill="none" stroke="#000000" stroke-width="7" stroke-miterlimit="10" x1="367.002" y1="213.998" x2="367.002" y2="373.998"/>
+<line fill="none" stroke="#000000" stroke-width="7" stroke-miterlimit="10" x1="76" y1="67" x2="226" y2="67"/>
+<line fill="none" stroke="#000000" stroke-width="7" stroke-miterlimit="10" x1="363" y1="355" x2="513" y2="355"/>
+<use xlink:href="#_x31_"  width="124" height="124" x="-62" y="-62" transform="matrix(1 0 0 -1 223.2002 74.1982)" overflow="visible"/>
+<use xlink:href="#_x31_"  width="124" height="124" x="-62" y="-62" transform="matrix(1 0 0 -1 81.2002 74.1982)" overflow="visible"/>
+<use xlink:href="#_x31_"  width="124" height="124" x="-62" y="-62" transform="matrix(1 0 0 -1 81.2002 218.1992)" overflow="visible"/>
+<use xlink:href="#_x31_"  width="124" height="124" x="-62" y="-62" transform="matrix(1 0 0 -1 368.2002 218.1992)" overflow="visible"/>
+<use xlink:href="#_x31_"  width="124" height="124" x="-62" y="-62" transform="matrix(1 0 0 -1 368.2012 362.1973)" overflow="visible"/>
+<use xlink:href="#_x31_"  width="124" height="124" x="-62" y="-62" transform="matrix(1 0 0 -1 511.2002 362.1982)" overflow="visible"/>
+</svg>
