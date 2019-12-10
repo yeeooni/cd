@@ -28,8 +28,12 @@
 
 - HTML DOM
 
-  | 종류         | 표현 방법 |
-  | ------------ | --------- |
-  | ALL SELECTOR |           |
-
+  | 종류              | 표현 방법                              |
+  | ----------------- | -------------------------------------- |
+  | ALL SELECTOR      | $("*")                                 |
+| ID SELECTOR       | $("#")                                 |
+  | ELEMENT SELECTOR  | $("element")                           |
+  | CLASS SELECTOR    | $(".")                                 |
+  | MULTIPLE SELECTOR | $("SELECTOR1, SELECTOR2, SELECTOR3..") |
+  
   
