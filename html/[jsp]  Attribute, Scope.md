@@ -82,9 +82,12 @@
   	String email = request.getParameter("email");
   	String address = request.getParameter("address");
   	String tel = request.getParameter("tel");
-  	session.setAttribute("email", email);
-  	session.setAttribute("address", address);
-  	session.setAttribute("tel", tel);
+  	
+  	if(email != null || address != null || tel != null){
+          session.setAttribute("email", email);
+  		session.setAttribute("address", address);
+  		session.setAttribute("tel", tel);
+      }	
   	String name = (String) application.getAttribute("name");
   %>
   <title> Attribute Test </title>
@@ -93,12 +96,12 @@
   </h1>
   <h3>
       <%=name%>님의 정보가 저장되었습니다.
-  </h3>
+</h3>
   <a href="###.jsp">확인하러가기</a>
-  ```
-
+```
+  
   ###.jsp
-
+  
   ```jsp
   <title>Attribute Test</title>
   <h1>
@@ -130,9 +133,9 @@
       	</tr>
       <%
           }
-      %>
+    %>
   </table>
   ```
-
+  
   
 
