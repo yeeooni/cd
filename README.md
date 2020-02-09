@@ -16,17 +16,16 @@
 |:------:|:-:|:--------:|
 |[![운영체제](img/os.png "출처:https://cloudstudying.kr/lectures/182")](https://github.com/yeeooni/explicit-knowledge/tree/master/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C)|[![SQL](img/sql.png "sql")](https://github.com/yeeooni/explicit-knowledge/tree/master/SQL)|[![PostgreSQL](img/What-is-PostgreSQL.png "출처:구글")](https://github.com/yeeooni/knowledge/tree/master/PostgreSQL)|
 
-|Java|Git|
-|:--:|:-:|
-|[![Java](img/java.jpg "출처:구글")](https://github.com/yeeooni/explicit-knowledge/tree/master/Java)|[![GIT](img/git.png "출처:구글")](https://github.com/yeeooni/explicit-knowledge/tree/master/git)|
+|Java|Git|HTML|
+|:--:|:-:|:--:|
+|[![Java](img/java.jpg "출처:구글")](https://github.com/yeeooni/explicit-knowledge/tree/master/Java)|[![GIT](img/git.png "출처:구글")](https://github.com/yeeooni/explicit-knowledge/tree/master/git)|[![HTML](img/html-1080x500.png "출처:구글")](https://github.com/yeeooni/cd/tree/master/html)|
 
 [<img src="img/javascript.png" width="100%"/>](https://github.com/yeeooni/explicit-knowledge/tree/master/JavaScript)
-
-
 
 ![MVC](img/MVC.PNG "출처:네이버")
 
 ---
+
 # Reference
 
 1. [git 한글 파일명 사용문제 고치기 core.quotepath](https://edykim.com/ko/post/git-fix-problem-using-filename-core.quotepath/)  
@@ -36,5 +35,3 @@
 5. [누구나 쉽게 이해할 수 있는 git 입문](https://backlog.com/git-tutorial/kr/)
 6. [XShell 6](https://www.netsarang.com/ko/xshell-all-features/)
 
-###### 5. 데이터베이스
-- 정규화(Normalization)
