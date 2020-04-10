@@ -1,4 +1,4 @@
-#Wrapper Class
+# Wrapper Class
 
 1. 정의
 > 프리미티브 타입을 객체로 표현하는데 사용되는 다음 클래스들의 통칭  
