@@ -1,4 +1,6 @@
-###### :pushpin: 완벽보단, 꾸준히. :running:
+
+
+## Promise little, Do much.
 
 |정보보안|알고리즘|
 |:------:|:------:|
