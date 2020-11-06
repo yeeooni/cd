@@ -1,68 +1,68 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<link rel="stylesheet" href="/bootstrap/css/bootstrap.css"/>	
-	<link rel="stylesheet" href="/bootstrap/css/bootstrap.css.map"/>	
-	<link rel="stylesheet" href="/bootstrap/css/bootstrap.min.css"/>	
-	<link rel="stylesheet" href="/bootstrap/css/bootstrap-theme.css"/>	
-	<link rel="stylesheet" href="/bootstrap/css/bootstrap-theme.css.map"/>	
-	<link rel="stylesheet" href="/bootstrap/css/bootstrap-theme.min.css"/>
-	<style type="text/css">
-		#profile {
-			display : inline;
-			float : left;
-			width : 21.53846153846154%;
-			margin :  0 0.769230769230769%;
-			margin-bottom : 40px;
-		}
-		#profile .profile-inner{
-			margin-top : 40px;
-			background : rgb(255, 255, 255);
-		}
-		.profile-block{
-			padding : 15px 20px;
-		}
-		#profile .base-info #avatar {
-			display : block;
-			width : 128px;
-			height : 128px;
-			margin : 10px auto 20px;
-		}
-		#profile .base-info #name {
-			font-size : 20px;
-			font-weight : 600;
-			display : block;
-			text-align : center;
-		}
-		#profile .base-info #title{
-			display : block;
-			text-align : center;
-		}
-		#profile .base-info #location{
-			font-size : 12px;
-			margin-top : 5px;
-			color : rgb(154, 158, 163);
-			display : block;
-			text-align : center;
-		}
-		#profile .base-info #follow{
-			color : rgb(255, 255, 255);
-			width : 150px;
-			height : 40px;
-			display : block;
-			font-size : 14px;
-			line-height : 40px;
-			text-align : center;
-			margin : 20px auto 10px;
-			background : linear-gradient(90deg, rgb(40, 180, 99), rgb(244, 208, 63));
-			border-radius : 20px;
-			transition : all 0.2s ease 0s;
-		}
-	</style>
+<link rel="stylesheet" href="/bootstrap/css/bootstrap.css"/>	
+<link rel="stylesheet" href="/bootstrap/css/bootstrap.css.map"/>	
+<link rel="stylesheet" href="/bootstrap/css/bootstrap.min.css"/>	
+<link rel="stylesheet" href="/bootstrap/css/bootstrap-theme.css"/>	
+<link rel="stylesheet" href="/bootstrap/css/bootstrap-theme.css.map"/>	
+<link rel="stylesheet" href="/bootstrap/css/bootstrap-theme.min.css"/>
+<style type="text/css">
+	#profile {
+		display : inline;
+		float : left;
+		width : 21.53846153846154%;
+		margin :  0 0.769230769230769%;
+		margin-bottom : 40px;
+	}
+	#profile .profile-inner{
+		margin-top : 40px;
+		background : rgb(255, 255, 255);
+	}
+	.profile-block{
+		padding : 15px 20px;
+	}
+	#profile .base-info #avatar {
+		display : block;
+		width : 128px;
+		height : 128px;
+		margin : 10px auto 20px;
+	}
+	#profile .base-info #name {
+		font-size : 20px;
+		font-weight : 600;
+		display : block;
+		text-align : center;
+	}
+	#profile .base-info #title{
+		display : block;
+		text-align : center;
+	}
+	#profile .base-info #location{
+		font-size : 12px;
+		margin-top : 5px;
+		color : rgb(154, 158, 163);
+		display : block;
+		text-align : center;
+	}
+	#profile .base-info #follow{
+		color : rgb(255, 255, 255);
+		width : 150px;
+		height : 40px;
+		display : block;
+		font-size : 14px;
+		line-height : 40px;
+		text-align : center;
+		margin : 20px auto 10px;
+		background : linear-gradient(90deg, rgb(40, 180, 99), rgb(244, 208, 63));
+		border-radius : 20px;
+		transition : all 0.2s ease 0s;
+	}
+</style>
 </head>
 <body>
 	<div class="container">
-		<header id="header">
+		<!-- header id="header">
 			<div id="header-main" class="header-inner">
 				<div class="outer">
 					<a href="/" id="logo">
@@ -75,28 +75,34 @@
 						<a class="main-nav-link" href="#none">메뉴3</a>
 						<a class="main-nav-link" href="#none">메뉴4</a>
 					</nav>
-					<!--nav id="sub-nav">
+					<nav id="sub-nav">
 						<div id="profile-nav" class="profile"><a id="profile-anchor" href="#none">
 						<img class="avatar" src="/img/ddochi.jpg"><i class="fas fa-caret-down"></a>
-					</nav-->
+					</nav>
 				</div>
 			</div>
-		</header>
+		</header -->
+		<div class="navbar navbar-inverse">
+			<button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			</button>
+		</div>
+		<a class="brand" href="/">또치의 개발 블로그</a> 
 		<div class="outer">
-		<aside id="profile" class="profile-fixed">
-			<div class="inner profile-inner">
-				<div class="base-info profile-block">
-					<img id="avatar" src="/img/ddochi.jpg"/>
-					<h2 id="name">또치</h2>
-					<h3 id="title">Developer</h3>
-					<span id="location">
-						<i class="fas fa-map-marker-alt" style="padding-right : 5px;"></i>
-					"Korea, Seoul"
-					</span>
-					<a id="follow" target="_blank" href="https://github.com/yeeooni">FOLLOW</a>
+			<aside id="profile" class="profile-fixed">
+				<div class="inner profile-inner">
+					<div class="base-info profile-block">
+						<img id="avatar" src="/img/ddochi.jpg"/>
+						<h2 id="name">또치</h2>
+						<h3 id="title">Developer</h3>
+						<span id="location"><i class="fas fa-map-marker-alt" style="padding-right : 5px;"></i>"Korea, Seoul"</span>
+						<a id="follow" target="_blank" href="https://github.com/yeeooni">FOLLOW</a>
+					</div>
 				</div>
-			</div>
-		</aside>
+			</aside>
+		</div>
 	</div>
 </body>
 </html>
