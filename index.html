@@ -1,25 +1,69 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<link rel="stylesheet" href="/customizing/css/style.css"/>	
+	<!--link rel="stylesheet" href="/customizing/css/style.css"--/>	
 	<link rel="stylesheet" href="/bootstrap/css/bootstrap.css"/>	
 	<link rel="stylesheet" href="/bootstrap/css/bootstrap.css.map"/>	
 	<link rel="stylesheet" href="/bootstrap/css/bootstrap.min.css"/>	
 	<link rel="stylesheet" href="/bootstrap/css/bootstrap-theme.css"/>	
 	<link rel="stylesheet" href="/bootstrap/css/bootstrap-theme.css.map"/>	
-	<link rel="stylesheet" href="/bootstrap/css/bootstrap-theme.min.css"/>	
+	<link rel="stylesheet" href="/bootstrap/css/bootstrap-theme.min.css"/>i
+	<style>
+		#profile {
+			display : inline;
+			float : left;
+			width : 21.53846153846154%;
+			margin :  0 0.769230769230769%;
+			display : none;
+			margin-bottom : 40px;
+		}
+		@media screen adn (min-width : 1200px){
+			#profile {
+				display : block;
+			}
+		}
+		#profile > #name{
+			font-size : 20px;
+			font-weight : 600;
+			text-align : center;
+		}
+		#profile > #location{
+			font-size : 12px;
+			margin-top : 5px;
+			color : #9a9ea3;
+		}
+		#profile > #follow{
+			color : #fff;
+			width : 150px;
+			height : 40px; 
+			display : block;
+			font-size : 14px;
+			line-height : 40px;
+			text-align : center;
+			margin : 20px auto 10px;
+			background : #28b463;
+		}
+		#profile > #follow:hover {
+			background : #39c574;
+		}
+
+	</style>
 </head>
 <body>
 	<div class="container">
 		<header id="header">
 			<div id="header-main" class="header-inner">
 				<div class="outer">
-					<a href="/" id="logo"><i class=""></i><span class="site-title">또치의 개발 블로그</span></a>
-					<nav id="main-nav"><a class="main-nav-link" href="/">메인</a>
-					<a class="main-nav-link" href="#none">메뉴1</a>
-					<a class="main-nav-link" href="#none">메뉴2</a>
-					<a class="main-nav-link" href="#none">메뉴3</a>
-					<a class="main-nav-link" href="#none">메뉴4</a>
+					<a href="/" id="logo">
+						<i class=""></i><span class="site-title">또치의 개발 블로그</span>
+					</a>
+					<nav id="main-nav">
+						<a class="main-nav-link" href="/">메인</a>
+						<a class="main-nav-link" href="#none">메뉴1</a>
+						<a class="main-nav-link" href="#none">메뉴2</a>
+						<a class="main-nav-link" href="#none">메뉴3</a>
+						<a class="main-nav-link" href="#none">메뉴4</a>
+					</nav>
 					<!--nav id="sub-nav">
 						<div id="profile-nav" class="profile"><a id="profile-anchor" href="#none">
 						<img class="avatar" src="/img/ddochi.jpg"><i class="fas fa-caret-down"></a>
