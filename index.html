@@ -59,25 +59,18 @@
 		transition : all 0.2s ease 0s;
 	}
 	/** Header 네비게이션 영역 */
-	.navbar-wrapper {
-		position : absolute;
-		top : 0;
-		left : 0;
-		right : 0;
-		z-index : 10;
-		margin-top : 20px;
-		margin-bottom : -90px;
-	}
-	.navbar .brand{
-		padding : 14px 20px 16px;
-		font-size : 16px;
-		font-weight : bold;
-		text-shadow : 0 -1px 0 rgba(0, 0, 0, .5);
+	.header-inner{
+		height : 100%;
+		position : relative;
+		background : linear-gradient(45deg, rgb(153, 051, 204), rgb(204, 102, 255));
 	}
 </style>
 </head>
 <body>
 	<div class="container">
+		<div class="header-inner">
+			<a class="" href="/">또치의 개발 블로그</a>
+		</div>
 		<div class="navbar navbar-inverse">
 			<div class="navbar-inner">
 				<!-- button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
